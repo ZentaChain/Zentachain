@@ -1,6 +1,6 @@
 # Zentachain
 
-ZentaChain 0.1
+
 ![unbenannt-6](https://user-images.githubusercontent.com/40530024/44295088-3b69ef00-a2a2-11e8-86ca-c5979f3d76f0.png)
 
 ## Overview
