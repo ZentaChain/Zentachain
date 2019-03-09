@@ -46,7 +46,7 @@ way that it never keep track on its users and will never save IP-address or any 
 information. By design the ecosystem simply doesn’t have this information nor can link
 transactions to a certain user or identity.
 
-#### What makes ZentaChain awesome?
+#### 3.0 What makes ZentaChain awesome?
 
 ZentDapp: Designed for decentralized privacy services
 Zenta enables users to build and host dApps within the ecosystem. All the running dApps will
@@ -54,7 +54,7 @@ be anonymous and secure by design, no record of users and linked transactions wi
 within the platform. To prove and demonstrate the capabilities of ZentaChain, the team
 introduces a decentralized ultra secure messenger
 
-#### Zentalk
+#### 1a)Zentalk
 
 Zentalk is a secured, decentralized peer-to-peer messenger dApp. Next to great usability,
 under the hood you’ll find state-of-the-art encryption, security and since it’s decental,
@@ -63,7 +63,7 @@ will be tunneled, pushed and dragged through a Zentamesh, a high performing Mesh
 gives Zentalk the unique advantage that it’s virtually immune against any forms of hack- or
 modification events like censorship and eavesdropping attempts.(www.zentalk.chat)
 
-#### Zentavault
+#### 1b)Zentavault
 
 Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and
 transfer service. Unlike regular data storage systemsk, Zentavault will store nothing on the
@@ -73,7 +73,7 @@ peer-to-peer distributed file system that seeks to connect all computing devices
 system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen
 as a single BitTorrent swarm, exchanging objects within one Git repository.
 
-##### Zentagate
+##### 1c)Zentagate
 
 „IPFS-DNS and HTTP-Gateway will be 2 tasks for ZentaGate“ 
 At ZentaChain we take security and anonymity very serious. We designed ZentaChain in such
