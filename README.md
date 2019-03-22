@@ -83,4 +83,4 @@ and safe-unsafe network relaying we plan on implementing a decentralized name se
 well. Zentagate will run this service - enabling routing and rerouting data and transactions in
 and out the ZentaChain
 
-##### 1c)ZentaSwap
+##### 1d)ZentaSwap
