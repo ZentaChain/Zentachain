@@ -82,3 +82,5 @@ to unsafe networks such as the Internet. Zentagate provides an additional encryp
 and safe-unsafe network relaying we plan on implementing a decentralized name service as
 well. Zentagate will run this service - enabling routing and rerouting data and transactions in
 and out the ZentaChain
+
+##### 1c)ZentaSwap
