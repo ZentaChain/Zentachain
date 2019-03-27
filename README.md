@@ -86,3 +86,8 @@ well. Zentagate will run this service - enabling routing and rerouting data and 
 and out the ZentaChain
 
 ##### 1d)ZentaSwap
+
+
+
+
+#### 4.0 The ZentaDex Exchanger
