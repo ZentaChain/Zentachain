@@ -63,9 +63,30 @@ will be tunneled, pushed and dragged through a Zentamesh, a high performing Mesh
 gives Zentalk the unique advantage that it’s virtually immune against any forms of hack- or
 modification events like censorship and eavesdropping attempts.
 
+#### 1b)Zentalk & Meshnet
+
+A Mesh Network, also known as MeshNet, is an alternative to the internet without any centralized authority. 
+Every participant in the MeshNet represents an independent Node that functions as a fully active access point to the network making it the most reliable form of a network available. 
+Whenever a node leaves the network the remaining nodes can easily redistribute the dataflow to the best available connection.
+
+The MeshNet functions wirelessly and allows computers and devices to interact without a cable modem. The devices themselves create a largely distributed network which can potentially cover the whole globe. 
+Users in the MeshNet can anonymously send and receive encrypted data securely by swapping encryption keys,
+making the data inaccessible to any third party.
+
+In the future this network of distributed node-miniservers could stay available even if the regular internet collapsed.
+All data potentially stored on a blockchain would remain online as long as there are active nodes in the network.
+
+Unlike the regular internet the MeshNet is also immune to censorship. Not only because it is a completely decentralized network, also due to its uniquely intelligent distribution and healing properties. A node that is taken offline will automatically be compensated by redistributing the traffic in the best way possible to the existing nodes around it. 
+That way information will continue to travel through the network at the best rate possible without interruption.
+
+In the last couple of years mesh networking functions have been integrated more and more into everyday applications. Especially in consumer electronics routers, WLAN repeaters and powerline adapters started implementing the technology. 
+For instance, the well-known German internet solution FritzBox is using MeshNet components with information that can be shown on a graphic display.
+
+The vision of Zentalk is to utilize this very technology to bring worldwide, secure 24/7 live communication and data exchange to the masses. Without a central authority communication can run in between the active network nodes, increasing the networks coverage with every joining user. As long as there are at least two active users in the MeshNet, communication can occur without the need for an internet or telephone service provider.
+
 ##### Zentalk WebApp:(www.zentalk.chat)
 
-#### 1b)Zentavault
+#### 1c)Zentavault
 
 Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and
 transfer service. Unlike regular data storage systemsk, Zentavault will store nothing on the
@@ -75,7 +96,7 @@ peer-to-peer distributed file system that seeks to connect all computing devices
 system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen
 as a single BitTorrent swarm, exchanging objects within one Git repository.
 
-##### 1c)Zentagate
+##### 1d)Zentagate
 
 „IPFS-DNS and HTTP-Gateway will be 2 tasks for ZentaGate“ 
 At ZentaChain we take security and anonymity very serious. We designed ZentaChain in such
@@ -85,7 +106,7 @@ and safe-unsafe network relaying we plan on implementing a decentralized name se
 well. Zentagate will run this service - enabling routing and rerouting data and transactions in
 and out the ZentaChain
 
-##### 1d)ZentaSwap
+##### 1e)ZentaSwap
 
 
 
