@@ -1,7 +1,9 @@
 ## :closed_lock_with_key: Zentachain-ζ  :closed_lock_with_key:
 
 
-![unbenannt-6](https://user-images.githubusercontent.com/40530024/44295088-3b69ef00-a2a2-11e8-86ca-c5979f3d76f0.png)
+#### ![logonew](https://user-images.githubusercontent.com/40530024/56460519-54ccb900-63a4-11e9-955f-f5add421bb83.png)
+
+
 
 #### Overview
 
