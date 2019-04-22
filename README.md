@@ -9,12 +9,11 @@
 
 ZentaChain is a blockchain-based Platform that enables you to store your files and chat with users around the world, both with a level of security and privacy that has never been available to the public before. Software creators can use ZentaChain to host decentralized apps and make them available to the world, more reliable and quicker than ever. By utilizing ground-breaking technologies like the Blockchain, smart-contracts and sharding, new highly secure forms of communication and data-transaction are made possible. ZentaChain is combining these and other technologies to bring you a platform that’s ready for a future beyond the age of information.
 
-#### 1. The problem worth solving
+#### 1.0 The problem worth solving
 
 Need for secure interaction and digital data storage - owned by the initiators.
 A. Resolve the thread of unauthorized data access and manipulation of information streams.
-B. Protect against hackers - getting unauthorized access and stealing information, logging,
-harvesting and selling your data.
+B. Protect against hackers - getting unauthorized access and stealing information, logging,harvesting and selling your data.
 C. Leverage net neutrality
 D. Ensure ownership of data and data security
 E. Provide a secure framework for the hosting and creation of dApps
@@ -23,7 +22,7 @@ G. Unencrypted, unsafe data storage Every transaction made on your device of iss
 action on some digital medium is potentially logged and stored somewhere in a database or on a
 file server. It is very likely this at this data isn’t properly encrypted or anonymized.
 
-#### 2. Vision
+#### 2.0 Vision
 
 ZentaChain envisions a decentral ecosystem build for net neutral data- and transactions
 interchange and data storage. The ecosystem is maintained by its users and immune against
@@ -56,7 +55,7 @@ be anonymous and secure by design, no record of users and linked transactions wi
 within the platform. To prove and demonstrate the capabilities of ZentaChain, the team
 introduces a decentralized ultra secure messenger
 
-#### 1a)Zentalk
+##### 3a)Zentalk
 
 Zentalk is a secured, decentralized peer-to-peer messenger dApp. Next to great usability,
 under the hood you’ll find state-of-the-art encryption, security and since it’s decental,
@@ -65,7 +64,7 @@ will be tunneled, pushed and dragged through a Zentamesh, a high performing Mesh
 gives Zentalk the unique advantage that it’s virtually immune against any forms of hack- or
 modification events like censorship and eavesdropping attempts.
 
-#### 1b)Zentalk & Meshnet
+##### 3b)Zentalk & Meshnet
 
 A Mesh Network, also known as MeshNet, is an alternative to the internet without any centralized authority. 
 Every participant in the MeshNet represents an independent Node that functions as a fully active access point to the network making it the most reliable form of a network available. 
@@ -88,30 +87,6 @@ The vision of Zentalk is to utilize this very technology to bring worldwide, sec
 
 ##### Zentalk WebApp:(www.zentalk.chat)
 
-#### 1c)Zentavault
-
-Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and
-transfer service. Unlike regular data storage systemsk, Zentavault will store nothing on the
-users device. Zentavault acts as an encryption delivery vehicle, with the ability to encrypt and
-dynamically distribute content securely onto the InterPlanetary File System (IPFS). IPFS is a
-peer-to-peer distributed file system that seeks to connect all computing devices with the same
-system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen
-as a single BitTorrent swarm, exchanging objects within one Git repository.
-
-##### 1d)Zentagate
-
-„IPFS-DNS and HTTP-Gateway will be 2 tasks for ZentaGate“ 
-At ZentaChain we take security and anonymity very serious. We designed ZentaChain in such
-a way that it is running on it’s own private Mesh network. Zentagate connects the ecosystem
-to unsafe networks such as the Internet. Zentagate provides an additional encryption and antihack layer, to ensure userdata and transactions are guaranteed - safe. Next to gatekeeping
-and safe-unsafe network relaying we plan on implementing a decentralized name service as
-well. Zentagate will run this service - enabling routing and rerouting data and transactions in
-and out the ZentaChain
-
-##### 1e)ZentaSwap
-
-
-
 
 #### 4.0 The ZentaDex Exchanger
 
@@ -122,5 +97,33 @@ The most obvious benefit to using a decentralized exchange over a centralized on
 Another advantage to the decentralized model is the privacy it provides. Users are not required to disclose their personal details to anyone, except if the exchange method involves bank transfers, in which case your identity is revealed only to the person that is selling or buying from you.
 
 
+#### 5.0 Zentavault
 
-#### 5.0 ZentaWallet
+Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and
+transfer service. Unlike regular data storage systemsk, Zentavault will store nothing on the
+users device. Zentavault acts as an encryption delivery vehicle, with the ability to encrypt and
+dynamically distribute content securely onto the InterPlanetary File System (IPFS). IPFS is a
+peer-to-peer distributed file system that seeks to connect all computing devices with the same
+system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen
+as a single BitTorrent swarm, exchanging objects within one Git repository.
+
+##### 5a)Zentagate
+
+„IPFS-DNS and HTTP-Gateway will be 2 tasks for ZentaGate“ 
+At ZentaChain we take security and anonymity very serious. We designed ZentaChain in such
+a way that it is running on it’s own private Mesh network. Zentagate connects the ecosystem
+to unsafe networks such as the Internet. Zentagate provides an additional encryption and antihack layer, to ensure userdata and transactions are guaranteed - safe. Next to gatekeeping
+and safe-unsafe network relaying we plan on implementing a decentralized name service as
+well. Zentagate will run this service - enabling routing and rerouting data and transactions in
+and out the ZentaChain
+
+#### 6.0 ZentaWallet
+
+------------
+
+
+
+##### 7.0 ZentaSwap
+
+
+------------
