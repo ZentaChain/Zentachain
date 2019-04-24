@@ -96,6 +96,10 @@ The most obvious benefit to using a decentralized exchange over a centralized on
 
 Another advantage to the decentralized model is the privacy it provides. Users are not required to disclose their personal details to anyone, except if the exchange method involves bank transfers, in which case your identity is revealed only to the person that is selling or buying from you.
 
+For more follow the below link:
+
+>https://github.com/ZentaChain/Zentadex
+
 
 #### 5.0 Zentavault
 
