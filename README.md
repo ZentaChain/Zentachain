@@ -111,6 +111,10 @@ peer-to-peer distributed file system that seeks to connect all computing devices
 system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen
 as a single BitTorrent swarm, exchanging objects within one Git repository.
 
+For more follow the below link
+
+>https://github.com/ZentaChain/Zentavault
+
 ##### 5a)Zentagate
 
 „IPFS-DNS and HTTP-Gateway will be 2 tasks for ZentaGate“ 
