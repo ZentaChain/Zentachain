@@ -85,7 +85,7 @@ For instance, the well-known German internet solution FritzBox is using MeshNet 
 
 The vision of Zentalk is to utilize this very technology to bring worldwide, secure 24/7 live communication and data exchange to the masses. Without a central authority communication can run in between the active network nodes, increasing the networks coverage with every joining user. As long as there are at least two active users in the MeshNet, communication can occur without the need for an internet or telephone service provider.
 
-##### Zentalk WebApp:(www.zentalk.chat)
+##### * [Zentatalk](www.zentalk.chat)
 
 
 #### 4.0 The ZentaDex Exchanger
@@ -98,7 +98,7 @@ Another advantage to the decentralized model is the privacy it provides. Users a
 
 For more follow the below link:
 
->https://github.com/ZentaChain/Zentadex
+* [Zentadex](https://github.com/ZentaChain/Zentadex)
 
 
 #### 5.0 Zentavault
@@ -113,7 +113,7 @@ as a single BitTorrent swarm, exchanging objects within one Git repository.
 
 For more follow the below link
 
->https://github.com/ZentaChain/Zentavault
+* [Zentavault](https://github.com/ZentaChain/Zentavault)
 
 ##### 5a)Zentagate
 
