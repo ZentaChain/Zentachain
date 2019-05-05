@@ -85,7 +85,7 @@ For instance, the well-known German internet solution FritzBox is using MeshNet 
 
 The vision of Zentalk is to utilize this very technology to bring worldwide, secure 24/7 live communication and data exchange to the masses. Without a central authority communication can run in between the active network nodes, increasing the networks coverage with every joining user. As long as there are at least two active users in the MeshNet, communication can occur without the need for an internet or telephone service provider.
 
-##### * [Zentatalk](www.zentalk.chat)
+* [Zentatalk](www.zentalk.chat)
 
 
 #### 4.0 The ZentaDex Exchanger
@@ -127,7 +127,9 @@ and out the ZentaChain
 
 #### 6.0 ZentaWallet
 
-------------
+For more follow the below link:
+
+* [Zentawallet](https://github.com/ZentaChain/Zentawallet)
 
 
 
