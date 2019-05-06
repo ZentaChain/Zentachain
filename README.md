@@ -100,6 +100,8 @@ For more follow the below link:
 
 * [Zentadex](https://github.com/ZentaChain/Zentadex)
 
+* [Zentadexdoc](https://github.com/ZentaChain/Zentadex/blob/master/ZENTADEX%20BLOCKCHAIN%20BASED%20DECENTRALIZED%20EXCHANGE.pdf)
+
 
 #### 5.0 Zentavault
 
@@ -132,11 +134,9 @@ For more follow the below link:
 * [Zentawallet](https://github.com/ZentaChain/Zentawallet)
 
 
-
 ##### 7.0 ZentaSwap
 
-
-------------
+ZentaSwap is a process by which one cryptocurrency is exchanged for another. Unlike selling one coin to buy another, a token swap is the change of one coin for another or token.
 
 ##### 8.0 Dpos
 
