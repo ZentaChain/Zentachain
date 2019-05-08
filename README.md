@@ -138,6 +138,8 @@ For more follow the below link:
 
 ZentaSwap is a process by which one cryptocurrency is exchanged for another. Unlike selling one coin to buy another, a token swap is the change of one coin for another or token.
 
+ * [ZentaSwap](https://github.com/ZentaChain/ZentaSwap)
+
 ##### 8.0 Dpos
 
 
