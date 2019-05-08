@@ -1,10 +1,5 @@
 ## :closed_lock_with_key: Zentachain-ζ  :closed_lock_with_key:
 
-
-#### ![logonew](https://user-images.githubusercontent.com/40530024/56460519-54ccb900-63a4-11e9-955f-f5add421bb83.png)
-
-
-
 #### Overview
 
 ZentaChain is a blockchain-based Platform that enables you to store your files and chat with users around the world, both with a level of security and privacy that has never been available to the public before. Software creators can use ZentaChain to host decentralized apps and make them available to the world, more reliable and quicker than ever. By utilizing ground-breaking technologies like the Blockchain, smart-contracts and sharding, new highly secure forms of communication and data-transaction are made possible. ZentaChain is combining these and other technologies to bring you a platform that’s ready for a future beyond the age of information.
