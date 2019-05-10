@@ -139,6 +139,6 @@ ZentaSwap is a process by which one cryptocurrency is exchanged for another. Unl
 
 For more follow the below link:
 
-* [Go to Dpos Doc](https://github.com/ZentaChain/Documents/blob/master/ZentaDpos.pdf)
+* [ZentaDpos Doc](https://github.com/ZentaChain/Documents/blob/master/ZentaDpos.pdf)
 
 ------------
