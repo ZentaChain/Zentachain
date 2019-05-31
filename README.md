@@ -50,7 +50,7 @@ be anonymous and secure by design, no record of users and linked transactions wi
 within the platform. To prove and demonstrate the capabilities of ZentaChain, the team
 introduces a decentralized ultra secure messenger
 
-##### 3a)Zentalk
+##### Zentalk
 
 Zentalk is a secured, decentralized peer-to-peer messenger dApp. Next to great usability,
 under the hood you’ll find state-of-the-art encryption, security and since it’s decental,
@@ -59,7 +59,7 @@ will be tunneled, pushed and dragged through a Zentamesh, a high performing Mesh
 gives Zentalk the unique advantage that it’s virtually immune against any forms of hack- or
 modification events like censorship and eavesdropping attempts.
 
-##### 3b)Zentalk & Meshnet
+##### Zentalk & Meshnet
 
 A Mesh Network, also known as MeshNet, is an alternative to the internet without any centralized authority. 
 Every participant in the MeshNet represents an independent Node that functions as a fully active access point to the network making it the most reliable form of a network available. 
@@ -112,7 +112,7 @@ For more follow the below link
 
 * [Zentavault](https://github.com/ZentaChain/Zentavault)
 
-##### 5a)Zentagate
+##### Zentagate
 
 „IPFS-DNS and HTTP-Gateway will be 2 tasks for ZentaGate“ 
 At ZentaChain we take security and anonymity very serious. We designed ZentaChain in such
