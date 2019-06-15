@@ -4,6 +4,8 @@
 
 ZentaChain is a blockchain-based Platform that enables you to store your files and chat with users around the world, both with a level of security and privacy that has never been available to the public before. Software creators can use ZentaChain to host decentralized apps and make them available to the world, more reliable and quicker than ever. By utilizing ground-breaking technologies like the Blockchain, smart-contracts and sharding, new highly secure forms of communication and data-transaction are made possible. ZentaChain is combining these and other technologies to bring you a platform that’s ready for a future beyond the age of information.
 
+------------
+
 #### 1.0 The problem worth solving
 
 Need for secure interaction and digital data storage - owned by the initiators.
@@ -16,6 +18,8 @@ F. Ownership and security of cloud storage
 G. Unencrypted, unsafe data storage Every transaction made on your device of issued by your
 action on some digital medium is potentially logged and stored somewhere in a database or on a
 file server. It is very likely this at this data isn’t properly encrypted or anonymized.
+
+------------
 
 #### 2.0 Vision
 
@@ -42,6 +46,8 @@ way that it never keep track on its users and will never save IP-address or any 
 information. By design the ecosystem simply doesn’t have this information nor can link
 transactions to a certain user or identity.
 
+------------
+
 #### 3.0 What makes ZentaChain awesome?
 
 ZentDapp: Designed for decentralized privacy services
@@ -49,6 +55,8 @@ Zenta enables users to build and host dApps within the ecosystem. All the runnin
 be anonymous and secure by design, no record of users and linked transactions will be stored
 within the platform. To prove and demonstrate the capabilities of ZentaChain, the team
 introduces a decentralized ultra secure messenger
+
+------------
 
 ##### Zentalk
 
@@ -58,6 +66,8 @@ ZentaChain guaranties full anonymity. All communication sent and received throug
 will be tunneled, pushed and dragged through a Zentamesh, a high performing MeshNet.This
 gives Zentalk the unique advantage that it’s virtually immune against any forms of hack- or
 modification events like censorship and eavesdropping attempts.
+
+------------
 
 ##### Zentalk & Meshnet
 
@@ -80,8 +90,9 @@ For instance, the well-known German internet solution FritzBox is using MeshNet 
 
 The vision of Zentalk is to utilize this very technology to bring worldwide, secure 24/7 live communication and data exchange to the masses. Without a central authority communication can run in between the active network nodes, increasing the networks coverage with every joining user. As long as there are at least two active users in the MeshNet, communication can occur without the need for an internet or telephone service provider.
 
-* [Zentatalk](www.zentalk.chat)
+* [Zentalk](www.zentalk.chat)
 
+------------
 
 #### 4.0 The ZentaDex Exchanger
 
@@ -96,6 +107,8 @@ For more follow the below link:
 * [Zentadex](https://github.com/ZentaChain/Zentadex)
 
 * [Zentadexdoc](https://github.com/ZentaChain/Zentadex/blob/master/ZENTADEX%20BLOCKCHAIN%20BASED%20DECENTRALIZED%20EXCHANGE.pdf)
+
+------------
 
 
 #### 5.0 Zentavault
@@ -112,6 +125,8 @@ For more follow the below link
 
 * [Zentavault](https://github.com/ZentaChain/Zentavault)
 
+------------
+
 ##### Zentagate
 
 „IPFS-DNS and HTTP-Gateway will be 2 tasks for ZentaGate“ 
@@ -122,18 +137,23 @@ and safe-unsafe network relaying we plan on implementing a decentralized name se
 well. Zentagate will run this service - enabling routing and rerouting data and transactions in
 and out the ZentaChain
 
+------------
+
 #### 6.0 ZentaWallet
 
 For more follow the below link:
 
 * [Zentawallet](https://github.com/ZentaChain/Zentawallet)
 
+------------
 
 ##### 7.0 ZentaSwap
 
 ZentaSwap is a process by which one cryptocurrency is exchanged for another. Unlike selling one coin to buy another, a token swap is the change of one coin for another or token.
 
  * [ZentaSwap](https://github.com/ZentaChain/ZentaSwap)
+ 
+ ------------
 
 ##### 8.0 ZentaDpos
 
