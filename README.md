@@ -2,7 +2,7 @@
 
 #### Overview
 
-ZentaChain is a blockchain-based Platform that enables you to store your files and chat with users around the world, both with a level of security and privacy that has never been available to the public before. Software creators can use ZentaChain to host decentralized apps and make them available to the world, more reliable and quicker than ever. By utilizing ground-breaking technologies like the Blockchain, smart-contracts and sharding, new highly secure forms of communication and data-transaction are made possible. ZentaChain is combining these and other technologies to bring you a platform that’s ready for a future beyond the age of information.
+ZentaChain is a blockchain-based Platform that enables you to store your files and chat with users around the world, both with a level of security and privacy that has never been available to the public before. Software creators can use ZentaChain to host decentralized apps and make them available to the world, more reliable and quicker than ever. By utilizing ground-breaking technologies like the Blockchain, smart-contracts and dpos, new highly secure forms of communication and data-transaction are made possible. ZentaChain is combining these and other technologies to bring you a platform that’s ready for a future beyond the age of information.
 
 ------------
 
@@ -60,7 +60,7 @@ introduces a decentralized ultra secure messenger
 
 ##### Zentalk
 
-Zentalk is a secured, decentralized peer-to-peer messenger dApp. Next to great usability,
+Zentalk is a secured, decentralized peer-to-peer messenger App. Next to great usability,
 under the hood you’ll find state-of-the-art encryption, security and since it’s decental,
 ZentaChain guaranties full anonymity. All communication sent and received through Zentalk
 will be tunneled, pushed and dragged through a Zentamesh, a high performing MeshNet.This
