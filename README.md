@@ -97,7 +97,7 @@
 *establish a meshed WLAN (Wireless Local Access Network). This MWLAN is achieved through*
 *the use of a nodes Meshed WiFi. This will be required for offline communications.*
 
-#### Zentalk & Hyperboria
+##### Zentalk & Hyperboria
 *Zentachain looks to address issues of privacy and online security through a decentralized*
 *alternative to the Internet called Hyperboria. Hyperboria is a Mesh Network which utilizes the*
 *cjdns protocol to ensure complete end-to-end encryption. This is achieved by using public-key*
