@@ -6,7 +6,7 @@
 
 ------------
 
-##### 1.0 The problem worth solving
+##### The problem worth solving
 
 *Need for secure interaction and digital data storage - owned by the initiators.*
 *A. Resolve the thread of unauthorized data access and manipulation of information streams.*
@@ -21,7 +21,7 @@
 
 ------------
 
-##### 2.0 Vision
+##### Vision
 
 *Zentachain envisions a decentral ecosystem build for net neutral data- and transactions*
 *interchange and data storage. The ecosystem is maintained by its users and immune against*
@@ -48,7 +48,7 @@
 
 ------------
 
-##### 3.0 What makes ZentaChain awesome?
+##### What makes ZentaChain awesome?
 
 *ZentDapp: Designed for decentralized privacy services*
 *Zenta enables users to build and host dApps within the ecosystem. All the running dApps will*
@@ -113,7 +113,7 @@
 
 ------------
 
-##### 4.0 The ZentaDex Exchanger
+##### The ZentaDex Exchanger
 
 *Zentadex is a decentralized exchange (DEX) is a cryptocurrency exchange which operates in a decentralized way, i.e., without a central* *authority or it is an exchange market that does not rely on a third-party service to hold the customer's funds. Decentralized* *exchanges* *allow peer-to-peer trading of cryptocurrencies.*
 
@@ -130,7 +130,7 @@
 ------------
 
 
-##### 5.0 Zentavault
+##### Zentavault
 
 *Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and*
 *transfer service. Unlike regular data storage systemsk, Zentavault will store nothing on the*
@@ -158,7 +158,7 @@
 
 ------------
 
-##### 6.0 ZentaWallet
+##### ZentaWallet
 
 *For more follow the below link:*
 
@@ -166,7 +166,7 @@
 
 ------------
 
-##### 7.0 ZentaSwap
+##### ZentaSwap
 
 *ZentaSwap is a process by which one cryptocurrency is exchanged for another. Unlike selling one coin to buy another, a token swap is* *the change of one coin for another or token.*
 
@@ -174,7 +174,7 @@
  
  ------------
 
-##### 8.0 ZentaDpos
+##### ZentaDpos
 
 *For more follow the below link:*
 
