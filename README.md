@@ -71,7 +71,7 @@
 
 ##### Zentalk & Meshnet
 
-*A Mesh Network, also known as MeshNet, is an alternative to the internet without any centralized authority. *
+*A Mesh Network, also known as MeshNet, is an alternative to the internet without any centralized authority.*
 *Every participant in the MeshNet represents an independent Node that functions as a fully active access point to the network making it* *the most reliable form of a network available.*
 *Whenever a node leaves the network the remaining nodes can easily redistribute the dataflow to the best available connection.*
 
@@ -90,7 +90,7 @@
 
 *The vision of Zentalk is to utilize this very technology to bring worldwide, secure 24/7 live communication and data exchange to the* *masses. Without a central authority communication can run in between the active network nodes, increasing the networks coverage with* *every joining user. As long as there are at least two active users in the MeshNet, communication can occur without the need for an* *internet or telephone service provider.*
 
-* [Zentalk](www.zentalk.chat)
+* [Zentalk](www.zentalk.chat)*
 
 ------------
 
@@ -102,7 +102,7 @@
 
 *Another advantage to the decentralized model is the privacy it provides. Users are not required to disclose their personal details to* *anyone, except if the exchange method involves bank transfers, in which case your identity is revealed only to the person that is* *selling or buying from you.*
 
-For more follow the below link:
+*For more follow the below link:*
 
 * [Zentadex](https://github.com/ZentaChain/Zentadex)
 
