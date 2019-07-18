@@ -90,6 +90,25 @@
 
 *The vision of Zentalk is to utilize this very technology to bring worldwide, secure 24/7 live communication and data exchange to the* *masses. Without a central authority communication can run in between the active network nodes, increasing the networks coverage with* *every joining user. As long as there are at least two active users in the MeshNet, communication can occur without the need for an* *internet or telephone service provider.*
 
+*The Zentameshnet has self healing properties that contribute to the ability to achieve censorship*
+*resistance. Self-healing means if a node connection is blocked or disabled, the network mesh can*
+*patch and rerouted around the lost node. The data is redirected and the network is still functional.*
+*Meshed networks can be applied to both wired and wireless networks, as well as the Zentalk will*
+*establish a meshed WLAN (Wireless Local Access Network). This MWLAN is achieved through*
+*the use of a nodes Meshed WiFi. This will be required for offline communications.*
+
+#### Zentalk & Hyperboria
+*ZentaChain looks to address issues of privacy and online security through a decentralized*
+*alternative to the Internet called Hyperboria. Hyperboria is a Mesh Network which utilizes the*
+*cjdns protocol to ensure complete end-to-end encryption. This is achieved by using public-key*
+*cryptography for address allocation and a distributed hash table for routing. Communication*
+*between two nodes can only be established after the connection has been verified, eliminating*
+*the possibility of third party intrusion or eavesdropping. Routing is executed using a system*
+*similar to Kademlia DHT enabling the network to maintain an optimal load across all nodes.*
+*ZentaChain believes in the Open Internet. By employing Hyperboria we give our users the*
+*opportunity to transmit their data in a fast, secure and private way, without having to fear*
+*unwanted intrusion from malicious entities or centralized service providers.*
+
 * [Zentalk](www.zentalk.chat)
 
 ------------
