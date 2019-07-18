@@ -1,12 +1,12 @@
-## :closed_lock_with_key: Zentachain-ζ  :closed_lock_with_key:
+### Zentachain-ζ
 
-#### Overview
+##### Overview
 
 *Zentachain is a blockchain-based Platform that enables you to store your files and chat with users around the world, both with a level* *of security and privacy that has never been available to the public before. Software creators can use Zentachain to host decentralized* *apps and make them available to the world, more reliable and quicker than ever. By utilizing ground-breaking technologies like the *Blockchain, smart-contracts and dpos, new highly secure forms of communication and data-transaction are made possible. ZentaChain is* *combining these and other technologies to bring you a platform that’s ready for a future beyond the age of information.*
 
 ------------
 
-#### 1.0 The problem worth solving
+##### 1.0 The problem worth solving
 
 *Need for secure interaction and digital data storage - owned by the initiators.*
 *A. Resolve the thread of unauthorized data access and manipulation of information streams.*
@@ -21,7 +21,7 @@
 
 ------------
 
-#### 2.0 Vision
+##### 2.0 Vision
 
 *Zentachain envisions a decentral ecosystem build for net neutral data- and transactions*
 *interchange and data storage. The ecosystem is maintained by its users and immune against*
@@ -48,7 +48,7 @@
 
 ------------
 
-#### 3.0 What makes ZentaChain awesome?
+##### 3.0 What makes ZentaChain awesome?
 
 *ZentDapp: Designed for decentralized privacy services*
 *Zenta enables users to build and host dApps within the ecosystem. All the running dApps will*
@@ -90,11 +90,11 @@
 
 *The vision of Zentalk is to utilize this very technology to bring worldwide, secure 24/7 live communication and data exchange to the* *masses. Without a central authority communication can run in between the active network nodes, increasing the networks coverage with* *every joining user. As long as there are at least two active users in the MeshNet, communication can occur without the need for an* *internet or telephone service provider.*
 
-* [Zentalk](www.zentalk.chat)*
+* [Zentalk](www.zentalk.chat)
 
 ------------
 
-#### 4.0 The ZentaDex Exchanger
+##### 4.0 The ZentaDex Exchanger
 
 *Zentadex is a decentralized exchange (DEX) is a cryptocurrency exchange which operates in a decentralized way, i.e., without a central* *authority or it is an exchange market that does not rely on a third-party service to hold the customer's funds. Decentralized* *exchanges* *allow peer-to-peer trading of cryptocurrencies.*
 
@@ -111,7 +111,7 @@
 ------------
 
 
-#### 5.0 Zentavault
+##### 5.0 Zentavault
 
 *Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and*
 *transfer service. Unlike regular data storage systemsk, Zentavault will store nothing on the*
@@ -139,7 +139,7 @@
 
 ------------
 
-#### 6.0 ZentaWallet
+##### 6.0 ZentaWallet
 
 *For more follow the below link:*
 
