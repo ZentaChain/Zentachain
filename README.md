@@ -98,7 +98,7 @@
 *the use of a nodes Meshed WiFi. This will be required for offline communications.*
 
 #### Zentalk & Hyperboria
-*ZentaChain looks to address issues of privacy and online security through a decentralized*
+*Zentachain looks to address issues of privacy and online security through a decentralized*
 *alternative to the Internet called Hyperboria. Hyperboria is a Mesh Network which utilizes the*
 *cjdns protocol to ensure complete end-to-end encryption. This is achieved by using public-key*
 *cryptography for address allocation and a distributed hash table for routing. Communication*
