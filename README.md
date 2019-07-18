@@ -85,8 +85,8 @@
 *Unlike the regular internet the MeshNet is also immune to censorship. Not only because it is a completely decentralized network, also* *due to its uniquely intelligent distribution and healing properties. A node that is taken offline will automatically be compensated by* *redistributing the traffic in the best way possible to the existing nodes around it.*
 *That way information will continue to travel through the network at the best rate possible without interruption.*
 
-*In the last couple of years mesh networking functions have been integrated more and more into everyday applications. Especially in *consumer electronics routers, WLAN repeaters and powerline adapters started implementing the technology.*
-For instance, the well-known German internet solution FritzBox is using MeshNet components with information that can be shown on a graphic display.*
+*In the last couple of years mesh networking functions have been integrated more and more into everyday applications. Especially in* *consumer electronics routers, WLAN repeaters and powerline adapters started implementing the technology.*
+*For instance, the well-known German internet solution FritzBox is using MeshNet components with information that can be shown on a graphic display.*
 
 *The vision of Zentalk is to utilize this very technology to bring worldwide, secure 24/7 live communication and data exchange to the* *masses. Without a central authority communication can run in between the active network nodes, increasing the networks coverage with* *every joining user. As long as there are at least two active users in the MeshNet, communication can occur without the need for an* *internet or telephone service provider.*
 
@@ -96,11 +96,11 @@ For instance, the well-known German internet solution FritzBox is using MeshNet 
 
 #### 4.0 The ZentaDex Exchanger
 
-*Zentadex is a decentralized exchange (DEX) is a cryptocurrency exchange which operates in a decentralized way, i.e., without a central* *authority or it is an exchange market that does not rely on a third-party service to hold the customer's funds. Decentralized exchanges* *allow peer-to-peer trading of cryptocurrencies.*
+*Zentadex is a decentralized exchange (DEX) is a cryptocurrency exchange which operates in a decentralized way, i.e., without a central* *authority or it is an exchange market that does not rely on a third-party service to hold the customer's funds. Decentralized* *exchanges* *allow peer-to-peer trading of cryptocurrencies.*
 
-*The most obvious benefit to using a decentralized exchange over a centralized one is their "trustless" nature. You are not required to *trust the security or honesty of the exchange since the funds are held by you in your personal wallet and not by a third party.*
+*The most obvious benefit to using a decentralized exchange over a centralized one is their "trustless" nature. You are not required to* *trust the security or honesty of the exchange since the funds are held by you in your personal wallet and not by a third party.*
 
-*Another advantage to the decentralized model is the privacy it provides. Users are not required to disclose their personal details to *anyone, except if the exchange method involves bank transfers, in which case your identity is revealed only to the person that is *selling or buying from you.*
+*Another advantage to the decentralized model is the privacy it provides. Users are not required to disclose their personal details to* *anyone, except if the exchange method involves bank transfers, in which case your identity is revealed only to the person that is* *selling or buying from you.*
 
 For more follow the below link:
 
@@ -121,7 +121,7 @@ For more follow the below link:
 *system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen*
 *as a single BitTorrent swarm, exchanging objects within one Git repository.*
 
-*For more follow the below link
+*For more follow the below link*
 
 * [Zentavault](https://github.com/ZentaChain/Zentavault)
 
