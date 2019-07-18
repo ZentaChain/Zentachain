@@ -1,4 +1,4 @@
-### Zentachain-ζ
+### Zentachain
 
 ##### Overview
 
