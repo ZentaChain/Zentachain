@@ -109,6 +109,14 @@
 *opportunity to transmit their data in a fast, secure and private way, without having to fear*
 *unwanted intrusion from malicious entities or centralized service providers.*
 
+##### Blake2
+
+-------------
+
+##### POR
+
+---------
+
 * [Zentalk](www.zentalk.chat)
 
 ------------
