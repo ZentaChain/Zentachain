@@ -113,6 +113,10 @@
 
 -------------
 
+##### Zentacube
+
+---------
+
 ##### POR
 
 ---------
@@ -154,7 +158,7 @@
 
 ------------
 
-##### Zentagate
+##### Zentagate a gateway to IPFS
 
 *„IPFS-DNS and HTTP-Gateway will be 2 tasks for ZentaGate“*
 *At Zentachain we take security and anonymity very serious. We designed Zentachain in such*
@@ -166,7 +170,7 @@
 
 ------------
 
-##### ZentaWallet
+##### The Zenta Mobile Wallet
 
 *For more follow the below link:*
 
@@ -174,7 +178,7 @@
 
 ------------
 
-##### ZentaSwap
+##### ZentaSwap own IPFS Swaper
 
 *ZentaSwap is a process by which one cryptocurrency is exchanged for another. Unlike selling one coin to buy another, a token swap is* *the change of one coin for another or token.*
 
@@ -182,7 +186,7 @@
  
  ------------
 
-##### ZentaDpos
+##### The Zenta Dpos Algorithm
 
 *For more follow the below link:*
 
