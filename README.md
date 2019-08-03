@@ -121,7 +121,7 @@
 
 ---------
 
-* [Zentalk](www.zentalk.chat)
+* [Zentalk](https://www.zentalk.chat)
 
 ------------
 
@@ -178,7 +178,7 @@
 
 ------------
 
-##### ZentaSwap own IPFS Swaper
+##### ZentaSwap is a IPFS Swaper
 
 *ZentaSwap is a process by which one cryptocurrency is exchanged for another. Unlike selling one coin to buy another, a token swap is* *the change of one coin for another or token.*
 
@@ -186,10 +186,22 @@
  
  ------------
 
-##### The Zenta Dpos Algorithm
+##### The Zenta DPOS-Algorithm
 
 *For more follow the below link:*
 
-* [ZentaDpos Doc](https://github.com/ZentaChain/Documents/blob/master/ZentaDpos.pdf)
+* [Zentadpos](https://github.com/ZentaChain/Documents/blob/master/ZentaDpos.pdf)
+
+------------
+
+##### Zentachain Whitepaper
+
+*Go to our Whitepaper - English:*
+
+* [Zentachain-Whitepaper](https://github.com/ZentaChain/Documents/blob/master/Zentachain-Whitepaper.pdf)
+
+*Whitepaper - Turkish:*
+
+*  [Zentachain-Whitepaper-Turkish](https://github.com/ZentaChain/Documents/blob/master/Zentachain-Whitepaper%20Turkish.pdf)
 
 ------------
