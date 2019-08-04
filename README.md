@@ -125,6 +125,10 @@
 
 ------------
 
+##### Zentalk-Web
+
+-------------
+
 ##### The ZentaDex Exchanger
 
 *Zentadex is a decentralized exchange (DEX) is a cryptocurrency exchange which operates in a decentralized way, i.e., without a central* *authority or it is an exchange market that does not rely on a third-party service to hold the customer's funds. Decentralized* *exchanges* *allow peer-to-peer trading of cryptocurrencies.*
