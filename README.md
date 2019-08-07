@@ -2,7 +2,7 @@
 
 ##### Overview
 
-*Zentachain is a blockchain-based Platform that enables you to store your files and chat with users around the world, both with a level* *of *security and privacy that has never been available to the public before. Software creators can use Zentachain to host decentralized Apps* *and make them available to the world, more reliable and quicker than ever. By utilizing ground-breaking technologies like the Blockchain,* *smart-contracts and dpos, new highly secure forms of communication and data-transaction are made possible. ZentaChain is combining these* *and other technologies to bring you a platform that’s ready for a future beyond the age of information.*
+*Zentachain is a blockchain-based Platform that enables you to store your files and chat with users around the world, both with a level* *of *security and privacy that has never been available to the public before. Software creators can use Zentachain to host decentralized Apps* *and make them available to the world, more reliable and quicker than ever. By utilizing ground-breaking technologies like the Blockchain,* *smart-contracts and dpos, new highly secure forms of communication and data-transaction are made possible. Zentachain is combining these* *and other technologies to bring you a platform that’s ready for a future beyond the age of information.*
 
 ------------
 
@@ -36,7 +36,7 @@
 *become faster and more open. Zentachain will enable the ability to address large amounts of data*
 *with IPFS, and place the immutable, permanent IPFS links onto the Zenta ledger by using a*
 *blockchain transaction. This timestamps and secures content, without having to put the data on*
-*the ZentaChain itself. Next to that, Zentachain will add additional encryption to files stored on the*
+*the Zentachain itself. Next to that, Zentachain will add additional encryption to files stored on the*
 *meshnet. Zentachain brings the freedom and independent spirit of the web at full force and at low*
 *cost. The ecosystem will help deliver content in a way which can save you considerable money.*
 *High latency networks are a real barrier of entry to developing world, the Zentachain provides*
@@ -48,13 +48,9 @@
 
 ------------
 
-##### What makes ZentaChain awesome?
+##### What makes Zentachain awesome?
 
-*ZentDapp: Designed for decentralized privacy services*
-*Zenta enables users to build and host dApps within the ecosystem. All the running dApps will*
-*be anonymous and secure by design, no record of users and linked transactions will be stored*
-*within the platform. To prove and demonstrate the capabilities of ZentaChain, the team*
-*introduces a decentralized ultra secure messenger*
+*Designed for decentralized privacy services. All the running dApps will be anonymous and secure by design, no record of users and* *linked transactions will be stored within the platform. To prove and demonstrate the capabilities of Zentachain, the team introduces a* *decentralized ultra-secure messenger*
 
 ------------
 
@@ -105,7 +101,7 @@
 *between two nodes can only be established after the connection has been verified, eliminating*
 *the possibility of third party intrusion or eavesdropping. Routing is executed using a system*
 *similar to Kademlia DHT enabling the network to maintain an optimal load across all nodes.*
-*ZentaChain believes in the Open Internet. By employing Hyperboria we give our users the*
+*Zentachain believes in the Open Internet. By employing Hyperboria we give our users the*
 *opportunity to transmit their data in a fast, secure and private way, without having to fear*
 *unwanted intrusion from malicious entities or centralized service providers.*
 
