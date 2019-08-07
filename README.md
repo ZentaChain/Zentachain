@@ -121,6 +121,14 @@
 
 ---------
 
+##### Zentalk-Gateway
+
+---------
+
+##### Zentanodes
+
+---------
+
 * [Zentalk](https://www.zentalk.chat)
 
 ------------
