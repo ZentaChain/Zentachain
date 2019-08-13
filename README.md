@@ -125,6 +125,10 @@
 
 ---------
 
+##### Zenta-M-Wan
+
+---------
+
 * [Zentalk](https://www.zentalk.chat)
 
 ------------
@@ -166,7 +170,7 @@
 
 ------------
 
-##### Zentagate a gateway to IPFS
+##### Zentagate a gateway to IPFS (Zentavault)
 
 *„IPFS-DNS and HTTP-Gateway will be 2 tasks for ZentaGate“*
 *At Zentachain we take security and anonymity very serious. We designed Zentachain in such*
