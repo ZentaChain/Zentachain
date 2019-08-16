@@ -216,4 +216,8 @@
 
 *  [Zentachain-Whitepaper-Turkish](https://github.com/ZentaChain/Documents/blob/master/Zentachain-Whitepaper%20Turkish.pdf)
 
+*Whitepaper - German:*
+
+*  [Zentachain-Whitepaper-German-Soon]()
+
 ------------
