@@ -127,13 +127,13 @@
 
 ##### Zenta-M-Wan
 
----------
-
-* [Zentalk](https://www.zentalk.chat)
-
 ------------
 
 ##### Zentalk-Web
+
+*You can use our Zental-Web version Beta*
+
+* [Zentalk-Web](https://www.zentalk.chat)
 
 -------------
 
