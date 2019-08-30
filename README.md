@@ -109,16 +109,15 @@
 
 -------------
 
-##### Zentacube
-
----------
-
-
 ##### Zentalk-Gateway
 
 ---------
 
-##### Zentanodes
+##### Zentanode
+
+---------
+
+##### Zentanode License
 
 ---------
 
@@ -128,7 +127,7 @@
 
 ##### Zentalk-Web
 
-*You can use our Zental-Web version Beta*
+*You can use our Zental-Web version Beta for free*
 
 * [Zentalk-Web](https://www.zentalk.chat)
 
