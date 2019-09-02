@@ -2,7 +2,7 @@
 
 ##### Overview
 
-![onion_zentalk_cyber](ProjectZentachain.png)
+![Zentachain](ProjectZentachain.png)
 
 *Zentachain is a blockchain-based Platform that enables you to store your files and chat with users around the world, both with a level* *of *security and privacy that has never been available to the public before. Software creators can use Zentachain to host decentralized Apps* *and make them available to the world, more reliable and quicker than ever. By utilizing ground-breaking technologies like the Blockchain,* *smart-contracts and dpos, new highly secure forms of communication and data-transaction are made possible. Zentachain is combining these* *and other technologies to bring you a platform that’s ready for a future beyond the age of information.*
 
