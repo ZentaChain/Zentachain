@@ -1,6 +1,4 @@
-### Zentachain
-
-##### Overview
+# *Welcome to Zentachain*
 
 ![Zentachain](ProjectZentachain.png)
 
