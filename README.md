@@ -59,39 +59,38 @@
 *Zentalk is a secured, decentralized peer-to-peer messenger App. Next to great usability,*
 *under the hood you’ll find state-of-the-art encryption, security and since it’s decental,*
 *Zentachain guaranties full anonymity. All communication sent and received through Zentalk*
-*will be tunneled, pushed and dragged through a Zentamesh, a high performing MeshNet.This*
+*will be tunneled, pushed and dragged through a Zentamesh, a high performing Own Mesh-Network.This*
 *gives Zentalk the unique advantage that it’s virtually immune against any forms of hack- or*
 *modification events like censorship and eavesdropping attempts.*
 
 ------------
 
-##### Zentalk & Meshnet
+##### Zentalk & Zentamesh-network
 
-*A Mesh Network, also known as MeshNet, is an alternative to the internet without any centralized authority.*
+*A Mesh Network is also known as MeshNet and is an alternative to the internet without any centralized authority.*
 *Every participant in the MeshNet represents an independent Node that functions as a fully active access point to the network making it* *the most reliable form of a network available.*
 *Whenever a node leaves the network the remaining nodes can easily redistribute the dataflow to the best available connection.*
 
 *The MeshNet functions wirelessly and allows computers and devices to interact without a cable modem. The devices themselves create a* *largely distributed network which can potentially cover the whole globe.*
-*Users in the MeshNet can anonymously send and receive encrypted data securely by swapping encryption keys*
+*Users in the MeshNet can anonymously send and receive encrypted data securely by swapping encryption keys with Blake2 Algorithm*
 *making the data inaccessible to any third party.*
 
 *In the future this network of distributed node-miniservers could stay available even if the regular internet collapsed.*
-*All data potentially stored on a blockchain would remain online as long as there are active nodes in the network.*
-
 *Unlike the regular internet the MeshNet is also immune to censorship. Not only because it is a completely decentralized network, also* *due to its uniquely intelligent distribution and healing properties. A node that is taken offline will automatically be compensated by* *redistributing the traffic in the best way possible to the existing nodes around it.*
 *That way information will continue to travel through the network at the best rate possible without interruption.*
+*There is a point which one is the problem today it is the range and the gateways*
 
 *In the last couple of years mesh networking functions have been integrated more and more into everyday applications. Especially in* *consumer electronics routers, WLAN repeaters and powerline adapters started implementing the technology.*
-*For instance, the well-known German internet solution FritzBox is using MeshNet components with information that can be shown on a graphic display.*
+*For instance, the well-known German internet solution FritzBox is using MeshNet components with information that has a very low range.*
 
-*The vision of Zentalk is to utilize this very technology to bring worldwide, secure 24/7 live communication and data exchange to the* *masses. Without a central authority communication can run in between the active network nodes, increasing the networks coverage with* *every joining user. As long as there are at least two active users in the MeshNet, communication can occur without the need for an* *internet or telephone service provider.*
+*The vision of Zentalk is to utilize this very technology to bring worldwide secure 24/7 live communication and data exchange to the* *masses. Without a central authority communication can run in between the active network Zentanodes, increasing the networks coverage with* *every joining user. As long as there are at least two active users in the Zentamesh-Network, communication can occur without the need for an* *internet or telephone service provider.*
 
 *The Zentameshnet has self healing properties that contribute to the ability to achieve censorship*
-*resistance. Self-healing means if a node connection is blocked or disabled, the network mesh can*
-*patch and rerouted around the lost node. The data is redirected and the network is still functional.*
-*Meshed networks can be applied to both wired and wireless networks, as well as the Zentalk will*
-*establish a meshed WLAN (Wireless Local Access Network). This MWLAN is achieved through*
-*the use of a nodes Meshed WiFi. This will be required for offline communications.*
+*resistance. Self-healing means if a Zentanode connection is blocked or disabled, the Zentamesh-network can*
+*patch and rerouted around the losted Zentanodes. The data is redirected and the network is still functional.*
+*Zentamesh-network can be applied to both wired and wireless networks, as well as the Zentalk will*
+*establish the Zentameshed WLAN (Wireless Local Access Network). This MWLAN is achieved through*
+*the use of a Zentanodes Meshed WiFi. This will be required for offline communication owver Zentalk.*
 
 ##### Zentalk & Hyperboria
 *Zentachain looks to address issues of privacy and online security through a decentralized*
