@@ -56,12 +56,7 @@
 
 ##### Zentalk
 
-*Zentalk is a secured, decentralized peer-to-peer messenger App. Next to great usability,*
-*under the hood you’ll find state-of-the-art encryption, security and since it’s decental,*
-*Zentachain guaranties full anonymity. All communication sent and received through Zentalk*
-*will be tunneled, pushed and dragged through a Zentamesh, a high performing Own Mesh-Network.This*
-*gives Zentalk the unique advantage that it’s virtually immune against any forms of hack- or*
-*modification events like censorship and eavesdropping attempts.*
+*Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenger. Next to great usability, under the hood, you’ll find* *state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security and since it’s decentralized, without having a* *server-point Zentachain guarantees full anonymity and offline communication between sender and receiver using the Blake2b hashing* *function and the Tor-network.* 
 
 ------------
 
