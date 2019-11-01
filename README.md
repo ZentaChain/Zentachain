@@ -50,7 +50,6 @@
 
 ##### What makes Zentachain awesome?
 
-*Designed for decentralized privacy services. All the running dApps will be anonymous and secure by design, no record of users and* *linked transactions will be stored within the platform. To prove and demonstrate the capabilities of Zentachain, the team introduces a* *decentralized ultra-secure messenger*
 
 ------------
 
