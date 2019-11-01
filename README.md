@@ -1,4 +1,4 @@
-# *Welcome to Zentachain*
+<h1 align="center">Welcome to Zentachain</h1>
 
 ![Zentachain](Projectzentachain.png)
 
