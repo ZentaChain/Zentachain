@@ -1,6 +1,6 @@
 ![Zentachain](Projectzentachain.png)
 
-*Zentachain is a blockchain-based Platform that enables you to store your files and chat with users around the world, both with a level* *of *security and privacy that has never been available to the public before. Software creators can use Zentachain to host decentralized Apps* *and make them available to the world, more reliable and quicker than ever. By utilizing ground-breaking technologies like the Blockchain,* *smart-contracts and dpos, new highly secure forms of communication and data-transaction are made possible. Zentachain is combining these* *and other technologies to bring you a platform that’s ready for a future beyond the age of information.*
+
 
 ------------
 
@@ -129,22 +129,6 @@ can patch and reroute around the lost Zentanodes. The data is redirected and th
 
 -------------
 
-##### The ZentaDex Exchanger
-
-*Zentadex is a decentralized exchange (DEX) is a cryptocurrency exchange which operates in a decentralized way, i.e., without a central* *authority or it is an exchange market that does not rely on a third-party service to hold the customer's funds. Decentralized* *exchanges* *allow peer-to-peer trading of cryptocurrencies.*
-
-*The most obvious benefit to using a decentralized exchange over a centralized one is their "trustless" nature. You are not required to* *trust the security or honesty of the exchange since the funds are held by you in your personal wallet and not by a third party.*
-
-*Another advantage of the decentralized model is the privacy it provides. Users are not required to disclose their personal details to* *anyone, except if the exchange method involves bank transfers, in which case your identity is revealed only to the person that is* *selling or buying from you.*
-
-*For more follow the below link:*
-
-* [Zentadex](https://github.com/ZentaChain/Zentadex)
-
-* [Zentadexdoc](https://github.com/ZentaChain/Zentadex/blob/master/ZENTADEX%20BLOCKCHAIN%20BASED%20DECENTRALIZED%20EXCHANGE.pdf)
-
-------------
-
 
 ##### Zentavault
 
@@ -212,6 +196,22 @@ to ensure user data and transactions are guaranteed safe. Next to gatekeeping*
 *Whitepaper - German:*
 
 *  [Zentachain-Whitepaper-German-Soon]()
+
+------------
+
+##### The ZentaDex Exchanger
+
+*Zentadex is a decentralized exchange (DEX) is a cryptocurrency exchange which operates in a decentralized way, i.e., without a central* *authority or it is an exchange market that does not rely on a third-party service to hold the customer's funds. Decentralized* *exchanges* *allow peer-to-peer trading of cryptocurrencies.*
+
+*The most obvious benefit to using a decentralized exchange over a centralized one is their "trustless" nature. You are not required to* *trust the security or honesty of the exchange since the funds are held by you in your personal wallet and not by a third party.*
+
+*Another advantage of the decentralized model is the privacy it provides. Users are not required to disclose their personal details to* *anyone, except if the exchange method involves bank transfers, in which case your identity is revealed only to the person that is* *selling or buying from you.*
+
+*For more follow the below link:*
+
+* [Zentadex](https://github.com/ZentaChain/Zentadex)
+
+* [Zentadexdoc](https://github.com/ZentaChain/Zentadex/blob/master/ZENTADEX%20BLOCKCHAIN%20BASED%20DECENTRALIZED%20EXCHANGE.pdf)
 
 ------------
 
