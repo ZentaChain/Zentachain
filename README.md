@@ -74,7 +74,7 @@ the ecosystem simply doesn’t have this information nor can link transactions t
 *In the last couple of years mesh networking functions have been integrated more and more into everyday applications. Especially in* *consumer electronics routers, WLAN repeaters and powerline adapters started implementing the technology.*
 *For instance, the well-known German internet solution FritzBox is using MeshNet components with information that has a very low range.*
 
-*The vision of Zentalk is to utilize this very technology to bring worldwide secure 24/7 live communication and data exchange to the* *masses. Without a central authority communication can run in between the active network Zentanodes, increasing the networks coverage with* *every joining user. As long as there are at least two active users in the Zentamesh-Network, communication can occur without the need for an* *internet or telephone service provider.*
+*The vision of Zentalk is to utilize this very technology to bring worldwide secure 24/7 live communication and data exchange to the* *masses. Without a central authority, communication can run in between the active network Zentanodes, increasing the coverage of network with every joining user. As long as there are at least two active users in the Zentamesh-Network, communication can occur without the need for an* *internet or telephone service provider.*
 
 *The Zentameshnet has self healing properties that contribute to the ability to achieve censorship*
 *resistance. Self-healing means if a Zentanode connection is blocked or disabled, the Zentamesh-network*
