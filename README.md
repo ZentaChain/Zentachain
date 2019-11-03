@@ -1,9 +1,5 @@
 ![Zentachain](Projectzentachain.png)
 
-
-
-------------
-
 ##### The problem worth solving
 
 *Need for secure interaction and digital data storage - owned by the initiators.*
