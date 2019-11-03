@@ -47,7 +47,7 @@ the ecosystem simply doesn’t have this information nor can link transactions t
 
 ##### Zentalk
 
-*Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenger. Next to great usability, under the hood, you’ll find* *state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security and since it’s decentralized, without having a* *server-point Zentachain guarantees full anonymity and offline communication between sender and receiver using the Blake2b hashing* *function and the Tor-network.* 
+Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, without having a server-point Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes inklusive the hashing function Blake2 and the Tor-network.
 
 ##### Zentalk & Zentamesh-network
 
