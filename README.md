@@ -101,8 +101,6 @@ can patch and reroute around the lost Zentanodes. The data is redirected and th
 
 ---------
 
----------
-
 ##### Zentamesh
 
 ---------
