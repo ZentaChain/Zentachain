@@ -8,14 +8,14 @@
 
 *Need for secure interaction and digital data storage - owned by the initiators.*
 *A. Resolve the thread of unauthorized data access and manipulation of information streams.*
-*B. Protect against hackers - getting unauthorized access and stealing information, logging,harvesting and selling your data.*
+*B. Protect against hackers - getting unauthorized access and stealing information, logging, harvesting and selling your data.*
 *C. Leverage net neutrality*
 *D. Ensure ownership of data and data security*
 *E. Provide a secure framework for the hosting and creation of dApps*
 *F. Ownership and security of cloud storage*
 *G. Unencrypted, unsafe data storage Every transaction made on your device of issued by your*
 *action on some digital medium is potentially logged and stored somewhere in a database or on a*
-*file server. It is very likely this at this data isn’t properly encrypted or anonymized.*
+*file server. It is very likely that this data isn’t properly encrypted or anonymized.*
 
 ------------
 
@@ -39,10 +39,9 @@
 *cost. The ecosystem will help deliver content in a way which can save you considerable money.*
 *High latency networks are a real barrier of entry to developing world, the Zentachain provides*
 *resilient access to data, independent of low latency or connectivity to the backbone. Zentachain*
-*wants to be truly decentral, without any exception and will design the ecosystem in such a*
-*way that it never keep track on its users and will never save IP-address or any personal*
-*information. By design the ecosystem simply doesn’t have this information nor can link*
-*transactions to a certain user or identity.*
+wants to be truly decentralized, without any exception and will design the ecosystem in such a way* 
+that keeps track of its users and will never save IP-address or any personal information. By design* 
+the ecosystem simply doesn’t have this information nor can link transactions to a certain user or identity.*
 
 ------------
 
@@ -78,11 +77,11 @@
 *The vision of Zentalk is to utilize this very technology to bring worldwide secure 24/7 live communication and data exchange to the* *masses. Without a central authority communication can run in between the active network Zentanodes, increasing the networks coverage with* *every joining user. As long as there are at least two active users in the Zentamesh-Network, communication can occur without the need for an* *internet or telephone service provider.*
 
 *The Zentameshnet has self healing properties that contribute to the ability to achieve censorship*
-*resistance. Self-healing means if a Zentanode connection is blocked or disabled, the Zentamesh-network can*
-*patch and rerouted around the losted Zentanodes. The data is redirected and the network is still functional.*
+*resistance. Self-healing means if a Zentanode connection is blocked or disabled, the Zentamesh-network*
+can patch and reroute around the lost Zentanodes. The data is redirected and the network is still functional.*
 *Zentamesh-network can be applied to both wired and wireless networks, as well as the Zentalk will*
 *establish the Zentameshed WLAN (Wireless Local Access Network). This MWLAN is achieved through*
-*the use of a Zentanodes Meshed WiFi. This will be required for offline communication owver Zentalk.*
+*the use of a Zentanodes Meshed WiFi. This will be required for offline communication using Zentalk.*
 
 ##### Zentalk & Hyperboria
 *Zentachain looks to address issues of privacy and online security through a decentralized*
@@ -124,7 +123,7 @@
 
 ##### Zentalk-Web
 
-*You can use our Zental-Web version Beta for free*
+*You can use our Zentalk-Web version Beta for free*
 
 * [Zentalk-Web](https://www.zentalk.chat)
 
@@ -136,7 +135,7 @@
 
 *The most obvious benefit to using a decentralized exchange over a centralized one is their "trustless" nature. You are not required to* *trust the security or honesty of the exchange since the funds are held by you in your personal wallet and not by a third party.*
 
-*Another advantage to the decentralized model is the privacy it provides. Users are not required to disclose their personal details to* *anyone, except if the exchange method involves bank transfers, in which case your identity is revealed only to the person that is* *selling or buying from you.*
+*Another advantage of the decentralized model is the privacy it provides. Users are not required to disclose their personal details to* *anyone, except if the exchange method involves bank transfers, in which case your identity is revealed only to the person that is* *selling or buying from you.*
 
 *For more follow the below link:*
 
@@ -150,8 +149,8 @@
 ##### Zentavault
 
 *Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and*
-*transfer service. Unlike regular data storage systemsk, Zentavault will store nothing on the*
-*users device. Zentavault acts as an encryption delivery vehicle, with the ability to encrypt and*
+*transfer service. Unlike regular data storage systems, Zentavault will store nothing on users’* 
+devices. Zentavault acts as an encryption delivery vehicle, with the ability to encrypt and*
 *dynamically distribute content securely onto the InterPlanetary File System (IPFS). IPFS is a*
 *peer-to-peer distributed file system that seeks to connect all computing devices with the same*
 *system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen*
@@ -166,9 +165,10 @@
 ##### Zentagate a gateway to IPFS (Zentavault)
 
 *„IPFS-DNS and HTTP-Gateway will be 2 tasks for ZentaGate“*
-*At Zentachain we take security and anonymity very serious. We designed Zentachain in such*
-*a way that it is running on it’s own private Mesh network. Zentagate connects the ecosystem*
-*to unsafe networks such as the Internet. Zentagate provides an additional encryption and antihack layer, to ensure userdata and* *transactions are guaranteed - safe. Next to gatekeeping*
+*At Zentachain we take security and anonymity very serious. We designed Zentachain in such a way*
+that it is running on its own private Mesh network. Zentagate connects the ecosystem*
+*to unsafe networks such as the Internet. Zentagate provides additional encryption and anti-hack layer,*
+to ensure user data and transactions are guaranteed safe. Next to gatekeeping*
 *and safe-unsafe network relaying we plan on implementing a decentralized name service as*
 *well. Zentagate will run this service - enabling routing and rerouting data and transactions in*
 *and out the Zentachain*
@@ -183,7 +183,7 @@
 
 ------------
 
-##### ZentaSwap is a IPFS Swaper
+##### ZentaSwap is an IPFS Swapper
 
 *ZentaSwap is a process by which one cryptocurrency is exchanged for another. Unlike selling one coin to buy another, a token swap is* *the change of one coin for another or token.*
 
@@ -193,7 +193,7 @@
 
 ##### The Zenta DPOS-Algorithm
 
-*For more follow the below link:*
+*For more, follow the link below:*
 
 * [Zentadpos](https://github.com/ZentaChain/Documents/blob/master/ZentaDpos.pdf)
 
