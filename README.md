@@ -13,7 +13,6 @@
 *action on some digital medium is potentially logged and stored somewhere in a database or on a*
 *file server. It is very likely that this data isn’t properly encrypted or anonymized.*
 
-------------
 
 ##### Vision
 
@@ -39,7 +38,7 @@ wants to be truly decentralized, without any exception and will design the ecosy
 that keeps track of its users and will never save IP-address or any personal information. By design* 
 the ecosystem simply doesn’t have this information nor can link transactions to a certain user or identity.*
 
-------------
+
 
 ##### What makes Zentachain awesome?
 
@@ -49,8 +48,6 @@ the ecosystem simply doesn’t have this information nor can link transactions t
 ##### Zentalk
 
 *Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenger. Next to great usability, under the hood, you’ll find* *state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security and since it’s decentralized, without having a* *server-point Zentachain guarantees full anonymity and offline communication between sender and receiver using the Blake2b hashing* *function and the Tor-network.* 
-
-------------
 
 ##### Zentalk & Zentamesh-network
 
@@ -80,6 +77,7 @@ can patch and reroute around the lost Zentanodes. The data is redirected and th
 *the use of a Zentanodes Meshed WiFi. This will be required for offline communication using Zentalk.*
 
 ##### Zentalk & Hyperboria
+
 *Zentachain looks to address issues of privacy and online security through a decentralized*
 *alternative to the Internet called Hyperboria. Hyperboria is a Mesh Network which utilizes the*
 *cjdns protocol to ensure complete end-to-end encryption. This is achieved by using public-key*
@@ -123,9 +121,6 @@ can patch and reroute around the lost Zentanodes. The data is redirected and th
 
 * [Zentalk-Web](https://www.zentalk.chat)
 
--------------
-
-
 ##### Zentavault
 
 *Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and*
@@ -140,8 +135,6 @@ devices. Zentavault acts as an encryption delivery vehicle, with the ability to 
 
 * [Zentavault](https://github.com/ZentaChain/Zentavault)
 
-------------
-
 ##### Zentagate a gateway to IPFS (Zentavault)
 
 *„IPFS-DNS and HTTP-Gateway will be 2 tasks for ZentaGate“*
@@ -153,31 +146,23 @@ to ensure user data and transactions are guaranteed safe. Next to gatekeeping*
 *well. Zentagate will run this service - enabling routing and rerouting data and transactions in*
 *and out the Zentachain*
 
-------------
-
 ##### The Zenta Mobile Wallet
 
 *For more follow the below link:*
 
 * [Zentawallet](https://github.com/ZentaChain/Zentawallet)
 
-------------
-
 ##### ZentaSwap is an IPFS Swapper
 
 *ZentaSwap is a process by which one cryptocurrency is exchanged for another. Unlike selling one coin to buy another, a token swap is* *the change of one coin for another or token.*
 
  * [ZentaSwap](https://github.com/ZentaChain/ZentaSwap)
- 
- ------------
 
 ##### The Zenta DPOS-Algorithm
 
 *For more, follow the link below:*
 
 * [Zentadpos](https://github.com/ZentaChain/Documents/blob/master/ZentaDpos.pdf)
-
-------------
 
 ##### Zentachain Whitepaper
 
@@ -192,8 +177,6 @@ to ensure user data and transactions are guaranteed safe. Next to gatekeeping*
 *Whitepaper - German:*
 
 *  [Zentachain-Whitepaper-German-Soon]()
-
-------------
 
 ##### The ZentaDex Exchanger
 
