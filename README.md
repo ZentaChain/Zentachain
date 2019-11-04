@@ -49,7 +49,7 @@ the ecosystem simply doesn’t have this information nor can link transactions t
 
 Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, without having a server-point Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes inclusive the hashing function Blake2 and the Tor-network. 
 
-##### Zentalk & Zentamesh-network
+##### Zentamesh-network
 
 *A Mesh Network is also known as MeshNet and is an alternative to the internet without any centralized authority.*
 *Every participant in the MeshNet represents an independent Node that functions as a fully active access point to the network making it* *the most reliable form of a network available.*
