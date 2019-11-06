@@ -1,5 +1,9 @@
 ![Zentachain](Projectzentachain.png)
 
+##### Vision
+
+The vision of  Zentachain is largely based and focused on communication, Zentachain uses extreme encryption of data and communication the multiple encryptions are applied. Zentalk will not only be a communication application as you know it from today. Zentachain aims at it and knows that the time has come to communicate in a strong range offline to offline. Zentachain is exactly the opposite of today's communications and applications while you pay for free applications with your data and information is Zentachain is exactly the opposite of part zentachain pays the user with their own blockchain Zenta who is supports the network. 
+
 ##### The problem worth solving
 
 *Need for secure interaction and digital data storage - owned by the initiators.*
@@ -12,11 +16,6 @@
 *G. Unencrypted, unsafe data storage Every transaction made on your device of issued by your*
 *action on some digital medium is potentially logged and stored somewhere in a database or on a*
 *file server. It is very likely that this data isn’t properly encrypted or anonymized.*
-
-
-##### Vision
-
-The vision of  Zentachain is largely based and focused on communication, Zentachain uses extreme encryption of data and communication the multiple encryptions are applied. Zentalk will not only be a communication application as you know it from today. Zentachain aims at it and knows that the time has come to communicate in a strong range offline to offline. Zentachain is exactly the opposite of today's communications and applications while you pay for free applications with your data and information is Zentachain is exactly the opposite of part zentachain pays the user with their own blockchain Zenta who is supports the network. 
 
 
 
