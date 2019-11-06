@@ -10,19 +10,6 @@ Zentachain enables users to communicate and store data with Zentalk & Zentavault
 
 Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, without having a server-point Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes inclusive the hashing function Blake2 and the Tor-network. 
 
-##### Zentalk & Hyperboria
-
-*Zentachain looks to address issues of privacy and online security through a decentralized*
-*alternative to the Internet called Hyperboria. Hyperboria is a Mesh Network which utilizes the*
-*cjdns protocol to ensure complete end-to-end encryption. This is achieved by using public-key*
-*cryptography for address allocation and a distributed hash table for routing. Communication*
-*between two nodes can only be established after the connection has been verified, eliminating*
-*the possibility of third party intrusion or eavesdropping. Routing is executed using a system*
-*similar to Kademlia DHT enabling the network to maintain an optimal load across all nodes.*
-*Zentachain believes in the Open Internet. By employing Hyperboria we give our users the*
-*opportunity to transmit their data in a fast, secure and private way, without having to fear*
-*unwanted intrusion from malicious entities or centralized service providers.*
-
 ##### Blake2
 
 -------------
