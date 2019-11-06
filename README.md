@@ -15,12 +15,9 @@ The vision of  Zentachain is largely based and focused on communication, Zentach
 *action on some digital medium is potentially logged and stored somewhere in a database or on a*
 *file server. It is very likely that this data isn’t properly encrypted or anonymized.*
 
-
-
 ##### What makes Zentachain awesome?
 
-
-------------
+Zentachain enables users to communicate and store data with Zentalk & Zentavault within the ecosystem. All the running decentralized Apps will be anonymous and secure there will be no record of users or linked transactions to prove and demonstrate the capabilities of Zentachain, the team introduces a decentralized ultra-secure messenger.
 
 ##### Zentalk
 
