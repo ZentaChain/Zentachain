@@ -16,27 +16,7 @@
 
 ##### Vision
 
-*Zentachain envisions a decentral ecosystem build for net neutral data- and transactions*
-*interchange and data storage. The ecosystem is maintained by its users and immune against*
-*several forms of cyber attacks and hacking. Next to that, viable solutions for security and data*
-*ownership problems are present. The Zentachain is open source. Zentachain aims to become the*
-*missing gap between decentralized meshnet cloud services such as IPFS (https://ipfs.io) and*
-*dynamic routing and addressing protocols such as DNS and HTTPS. This comes down to the*
-*fact that Zenta Labs will upgrade the IPFS peer-to-peer hypermedia protocol with state-of-the*
-*art blockchain technology.*
-
-*The web will not only become ultra secure and decentralized and made permanent, it will also*
-*become faster and more open. Zentachain will enable the ability to address large amounts of data*
-*with IPFS, and place the immutable, permanent IPFS links onto the Zenta ledger by using a*
-*blockchain transaction. This timestamps and secures content, without having to put the data on*
-*the Zentachain itself. Next to that, Zentachain will add additional encryption to files stored on the*
-*meshnet. Zentachain brings the freedom and independent spirit of the web at full force and at low*
-*cost. The ecosystem will help deliver content in a way which can save you considerable money.*
-*High latency networks are a real barrier of entry to developing world, the Zentachain provides*
-*resilient access to data, independent of low latency or connectivity to the backbone. Zentachain*
-wants to be truly decentralized, without any exception and will design the ecosystem in such a way* 
-that keeps track of its users and will never save IP-address or any personal information. By design* 
-the ecosystem simply doesn’t have this information nor can link transactions to a certain user or identity.*
+The vision of  Zentachain is largely based and focused on communication, Zentachain uses extreme encryption of data and communication the multiple encryptions are applied. Zentalk will not only be a communication application as you know it from today. Zentachain aims at it and knows that the time has come to communicate in a strong range offline to offline. Zentachain is exactly the opposite of today's communications and applications while you pay for free applications with your data and information is Zentachain is exactly the opposite of part zentachain pays the user with their own blockchain Zenta who is supports the network. 
 
 
 
