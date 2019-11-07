@@ -10,29 +10,6 @@ Zentachain enables users to communicate and store data with Zentalk & Zentavault
 
 Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, without having a server-point Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes inclusive the hashing function Blake2 and the Tor-network. 
 
-##### Blake2
-
--------------
-
-##### Zentalk-Gateway
-
----------
-
-##### Zentanode
-
----------
-
-##### Zentamesh
-
----------
-
-##### Zentanode License
-
----------
-
-##### Zenta-M-Wan
-
-------------
 
 ##### Zentalk-Web
 
