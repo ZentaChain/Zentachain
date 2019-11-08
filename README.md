@@ -35,12 +35,6 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
  * [ZentaSwap](https://github.com/ZentaChain/ZentaSwap)
 
-##### The Zenta DPOS-Algorithm
-
-*For more, follow the link below:*
-
-* [Zentadpos](https://github.com/ZentaChain/Documents/blob/master/ZentaDpos.pdf)
-
 ##### Zentachain Whitepaper
 
 *Go to our Whitepaper - English:*
@@ -57,13 +51,7 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 
 ##### The ZentaDex Exchanger
 
-*For more follow the below link:*
-
 * [Zentadex](https://github.com/ZentaChain/Zentadex)
 
 * [Zentadexdoc](https://github.com/ZentaChain/Zentadex/blob/master/ZENTADEX%20BLOCKCHAIN%20BASED%20DECENTRALIZED%20EXCHANGE.pdf)
-
-------------
-
-[This project is under active development, there may be breaking changes.]
 [Copyright all rights reserved Zentachain.io]
