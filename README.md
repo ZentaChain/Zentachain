@@ -51,4 +51,5 @@ Zentalk is a highly secure hybrid encryption decentralized peer-to-peer messenge
 * [Zentadex](https://github.com/ZentaChain/Zentadex)
 
 * [Zentadexdoc](https://github.com/ZentaChain/Zentadex/blob/master/ZENTADEX%20BLOCKCHAIN%20BASED%20DECENTRALIZED%20EXCHANGE.pdf)
+
 [Copyright all rights reserved Zentachain.io]
