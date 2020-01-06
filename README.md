@@ -16,19 +16,14 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 ##### Zentavault
 
-*For more follow the below link*
 
 * [Zentavault](https://github.com/ZentaChain/Zentavault)
 
 ##### The Zenta Mobile Wallet
 
-*For more follow the below link:*
-
 * [Zentawallet](https://github.com/ZentaChain/Zentawallet)
 
 ##### ZentaSwap is an IPFS Swapper
-
-*ZentaSwap is a process by which one cryptocurrency is exchanged for another. Unlike selling one coin to buy another, a token swap is* *the change of one coin for another or token.*
 
  * [ZentaSwap](https://github.com/ZentaChain/ZentaSwap)
 
