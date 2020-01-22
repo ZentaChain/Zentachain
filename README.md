@@ -41,7 +41,7 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 *  [Zentachain-Whitepaper-German-Soon]()
 
-##### The ZentaDex Exchanger
+##### The ZentaDex Exchange
 
 * [Zentadex](https://github.com/ZentaChain/Zentadex)
 
