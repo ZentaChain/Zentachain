@@ -46,6 +46,6 @@ Whitepaper - German:
 
 ### Zentachain Docs
 
-* [Docs-Page](https://)
+* [Docs-Page](https://github.com/ZentaChain/ZentaDocs)
 
 [Copyright all rights reserved 2018 - 2020 Zentachain.io]
