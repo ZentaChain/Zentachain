@@ -2,9 +2,9 @@
 
 ### Zentachain
 
-The vision of  Zentachain is largely based and focused on communication. Zentachain uses ultra-secure encryption of data and communication the multiple encryptions are applied. Zentalk will not only be a communication application. Zentachain knows that the time has come to communicate in a strong range offline to offline. Zentachain is exactly the opposite of today's communications and applications while you pay for free applications with your data and information. Zentachain pays the users who support the Zentamesh-network with Zenta. 
+Zentachain is largely based and focused on communication. Zentachain uses ultra-secure encryption of data and communication the multiple encryptions are applied. Zentachain knows that the time has come to communicate in a strong range offline to offline. Zentachain is exactly the opposite of today's communications and applications while you pay for free applications with your data and information. Zentachain pays the users who support the Zentamesh-network with Zenta by running a Zentanode(Nodes). 
 
-Zentachain enables users to communicate and store data with Zentalk & Zentavault within the ecosystem. All the running decentralized Apps will be anonymous and secure. There will be no record of users or linked transactions to prove and demonstrate the capabilities of Zentachain. Team introduces a decentralized ultra-secure messenger.
+Zentachain enables users to communicate and store data with Zentalk and Zentavault within the ecosystem. All the running decentralized Apps will be anonymous and secure. There will be no record of users or linked transactions to prove and demonstrate the capabilities of Zentachain. Team introduces a decentralized ultra-secure messenger more can be find into the Whitepaper.
 
 ### Zentalk
 
