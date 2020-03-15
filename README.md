@@ -58,5 +58,3 @@ Whitepaper - German:
 ### The ZentaDex Exchange
 
 * [Zentadex](https://github.com/ZentaChain/Zentadex)
-
-[Copyright all rights reserved 2018 - 2020 Zentachain.io]
