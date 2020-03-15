@@ -18,6 +18,8 @@ Zentavault is a high-throughput encrypted and distributed file vault (encrypted 
 
 „The Gateway to Zentamesh Network“ Zentachain takes security and anonymity very serious. We designed Zentachain in such a way that it is running on its own private Zentamesh network. Zentagate connects the ecosystem to use Zentamesh networks such as the Internet. Zentagate provides additional encryption by AES and anti-hack layer, to ensure the user is connected and protected safely. Next to gatekeeping and safe-unsafe network relaying, we plan on implementing a decentralized name service as well. Zentagate will run this service - enabling routing and rerouting data and transactions in and out the Zentamesh network with the Zentanodes which will allow the user to stay connected without having internet access.
 
+* [Zentavault](https://github.com/ZentaChain/Zentavault)
+
 ### Zentamesh Network
 
 -----
@@ -26,6 +28,10 @@ Zentavault is a high-throughput encrypted and distributed file vault (encrypted 
 ### Zentalk-Web
 
 * [Zentalk-Web](https://zentalk.chat)
+
+### Zentachain Docs
+
+* [Docs-Page](https://github.com/ZentaChain/ZentaDocs)
 
 ### Zentavault
 
@@ -56,9 +62,5 @@ Whitepaper - German:
 ### The ZentaDex Exchange
 
 * [Zentadex](https://github.com/ZentaChain/Zentadex)
-
-### Zentachain Docs
-
-* [Docs-Page](https://github.com/ZentaChain/ZentaDocs)
 
 [Copyright all rights reserved 2018 - 2020 Zentachain.io]
