@@ -14,11 +14,11 @@ Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer mes
 
 Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and transfer service. Unlike regular data storage systems, Zentavault will store nothing on the user's device. Zentavault acts as an encryption delivery tool, with the ability to encrypt and dynamically distribute content securely onto the InterPlanetary File System (IPFS). IPFS is a peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen as a single BitTorrent swarm, exchanging objects within one Git repository
 
+* [Zentavault](https://github.com/ZentaChain/Zentavault)
+
 ### Zentagate
 
 „The Gateway to Zentamesh Network“ Zentachain takes security and anonymity very serious. We designed Zentachain in such a way that it is running on its own private Zentamesh network. Zentagate connects the ecosystem to use Zentamesh networks such as the Internet. Zentagate provides additional encryption by AES and anti-hack layer, to ensure the user is connected and protected safely. Next to gatekeeping and safe-unsafe network relaying, we plan on implementing a decentralized name service as well. Zentagate will run this service - enabling routing and rerouting data and transactions in and out the Zentamesh network with the Zentanodes which will allow the user to stay connected without having internet access.
-
-* [Zentavault](https://github.com/ZentaChain/Zentavault)
 
 ### Zentamesh Network
 
@@ -32,10 +32,6 @@ Zentavault is a high-throughput encrypted and distributed file vault (encrypted 
 ### Zentachain Docs
 
 * [Docs-Page](https://github.com/ZentaChain/ZentaDocs)
-
-### Zentavault
-
-* [Zentavault](https://github.com/ZentaChain/Zentavault)
 
 ### The Zenta Mobile Wallet
 
