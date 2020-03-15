@@ -8,7 +8,20 @@ Zentachain enables users to communicate and store data with Zentalk and Zentavau
 
 ### Zentalk
 
-Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, it has no server point. Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes inclusive hashing function Blake2 and the Tor-network. 
+Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, it has no server point. Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes inclusive hashing function Blake2 and the Tor-network.
+
+### Zentavault
+
+Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and transfer service. Unlike regular data storage systems, Zentavault will store nothing on the user's device. Zentavault acts as an encryption delivery tool, with the ability to encrypt and dynamically distribute content securely onto the InterPlanetary File System (IPFS). IPFS is a peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen as a single BitTorrent swarm, exchanging objects within one Git repository
+
+### Zentagate
+
+„The Gateway to Zentamesh Network“ Zentachain takes security and anonymity very serious. We designed Zentachain in such a way that it is running on its own private Zentamesh network. Zentagate connects the ecosystem to use Zentamesh networks such as the Internet. Zentagate provides additional encryption by AES and anti-hack layer, to ensure the user is connected and protected safely. Next to gatekeeping and safe-unsafe network relaying, we plan on implementing a decentralized name service as well. Zentagate will run this service - enabling routing and rerouting data and transactions in and out the Zentamesh network with the Zentanodes which will allow the user to stay connected without having internet access.
+
+### Zentamesh Network
+
+-----
+
 
 ### Zentalk-Web
 
