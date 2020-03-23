@@ -10,6 +10,10 @@ Zentachain enables users to communicate and store data with Zentalk and Zentavau
 
 Zentalk is a highly secure hybrid encryption, decentralized and peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, it has no server point. Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes inclusive hashing function Blake2 and the Tor-network.
 
+### Zentalk-Web
+
+* [Zentalk-Web](https://zentalk.chat)
+
 ### Zentavault
 
 Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and transfer service. Unlike regular data storage systems, Zentavault will store nothing on the user's device. Zentavault acts as an encryption delivery tool, with the ability to encrypt and dynamically distribute content securely onto the InterPlanetary File System (IPFS). IPFS is a peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen as a single BitTorrent swarm, exchanging objects within one Git repository
@@ -23,10 +27,6 @@ Zentavault is a high-throughput encrypted and distributed file vault (encrypted 
 ### Zentagate
 
 * [Zentagate](https://github.com/ZentaChain/Zentamesh)
-
-### Zentalk-Web
-
-* [Zentalk-Web](https://zentalk.chat)
 
 ### Zentachain Docs
 
