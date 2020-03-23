@@ -16,14 +16,13 @@ Zentavault is a high-throughput encrypted and distributed file vault (encrypted 
 
 * [Zentavault](https://github.com/ZentaChain/Zentavault)
 
+### Zentamesh
+
+* [Zentamesh](https://github.com/ZentaChain/Zentamesh)
+
 ### Zentagate
 
-* [Zentgate](https://github.com/ZentaChain/Zentamesh)
-
-### Zentamesh Network
-
------
-
+* [Zentagate](https://github.com/ZentaChain/Zentamesh)
 
 ### Zentalk-Web
 
@@ -54,7 +53,3 @@ Whitepaper - Turkish:
 Whitepaper - German:
 
 *  [Zentachain-Whitepaper-German-Soon]()
-
-### The ZentaDex Exchange
-
-* [Zentadex](https://github.com/ZentaChain/Zentadex)
