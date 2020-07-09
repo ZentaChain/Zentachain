@@ -1,4 +1,6 @@
-![Zentachain](Projectzentachain.png)
+
+
+<img src="Projectzentachain.png" height="400" width="780"></img>
 
 ### Zentachain
 
