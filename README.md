@@ -49,14 +49,8 @@ Zentavault is a high-throughput encrypted and distributed file vault (encrypted 
 
 ### Zentachain Whitepaper
 
-Whitepaper - English:
+* [Zentachain Whitepaper English](https://zentachain.io/documents/Zentachain_Whitepaper.pdf)
 
-* [Zentachain-Whitepaper](https://zentachain.io/documents/Zentachain_Whitepaper.pdf)
+* [Zentachain Whitepaper Turkish](https://zentachain.io/documents/ZentachainTurkishWhitepaper.pdf)
 
-Whitepaper - Turkish:
-
-*  [Zentachain-Whitepaper-Turkish](https://zentachain.io/documents/ZentachainTurkishWhitepaper.pdf)
-
-Whitepaper - German:
-
-*  [Zentachain-Whitepaper-German-Soon]()
+* [Zentachain Whitepaper German](https://zentachain.io/documents/Zentachain_Whitepaper_German.pdf)
