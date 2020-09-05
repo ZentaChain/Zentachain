@@ -35,13 +35,13 @@ Zentavault is a high-throughput encrypted and distributed file vault (encrypted 
 
 * [Zentagate](https://github.com/ZentaChain/Zentamesh)
 
-### Zentachain Docs
-
-* [Docs-Page](https://github.com/ZentaChain/ZentaDocs)
-
 ### ZentaSwap is an IPFS Swapper
 
  * [ZentaSwap](https://github.com/ZentaChain/ZentaSwap)
+ 
+ ### Zentachain Documentation
+
+* [Documentation-Page]()
 
 ### Zentachain Whitepaper
 
