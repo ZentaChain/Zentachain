@@ -1,8 +1,3 @@
-
-<div>
-  <img src="Projectzentachain.png" height="400" width="780"></img>
-</div>
-
 ## Zentachain
 
 Zentachain is largely based and focused on communication. Zentachain uses ultra-secure encryption of data and communication on which multiple encryptions are applied. Zentachain knows that the time has come to communicate in a strong range offline to offline. Zentachain is exactly the opposite of today's communications and applications while you pay for free applications with your data and information. Zentachain rewards the users who support Zentameshnet with Zenta by running a Zentanode.
