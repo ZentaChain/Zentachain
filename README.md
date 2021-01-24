@@ -4,6 +4,9 @@ Zentachain is largely based and focused on communication. Zentachain uses ultra-
 
 Zentachain enables users to communicate and store data with Zentalk and Zentavault within the ecosystem. All the running decentralized Apps will be anonymous and secure. There will be no record of users or linked transactions to prove and demonstrate the capabilities of Zentachain. Team introduces a decentralized ultra-secure messenger. More information can be found into the Whitepaper.
 
+## Zentanetwork
+---
+
 ## Zentalk
 
 Zentalk is a highly secure hybrid encrypted, decentralized and peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, it has no server point. Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes, inclusive hashing function Blake2, and the TOR-network.
