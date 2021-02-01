@@ -5,7 +5,7 @@ Zentachain is largely based and focused on communication. Zentachain uses ultra-
 Zentachain enables users to communicate and store data with Zentalk and Zentavault within the ecosystem. All the running decentralized Apps will be anonymous and secure. There will be no record of users or linked transactions to prove and demonstrate the capabilities of Zentachain. Team introduces a decentralized ultra-secure messenger. More information can be found into the Whitepaper.
 
 ## Zentanetwork
----
+Zentanetwork is a Substrate-based, forkless PoS blockchain for communication and data storage.
 
 ## Zentalk
 
