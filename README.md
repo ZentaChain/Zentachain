@@ -21,7 +21,7 @@ Zentavault is a high-throughput encrypted and distributed file vault (encrypted 
 
 * [Zentavault](https://github.com/ZentaChain/Zentavault)
 
-### Zentamesh
+### Zentameshnet
 
 * [Zentamesh](https://github.com/ZentaChain/Zentamesh)
 
