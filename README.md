@@ -33,14 +33,7 @@ Zentavault is a high-throughput encrypted and distributed file vault (encrypted 
 
  * [ZentaSwap](https://github.com/ZentaChain/ZentaSwap)
  
- ### Zentachain Documentation
+ ### Zentachain Documentation & Whitepaper
 
 * [Documentation Page]()
 
-### Zentachain Whitepaper
-
-* [Zentachain Whitepaper English](https://zentachain.io/documents/Zentachain_Whitepaper.pdf)
-
-* [Zentachain Whitepaper Turkish](https://zentachain.io/documents/ZentachainTurkishWhitepaper.pdf)
-
-* [Zentachain Whitepaper German](https://zentachain.io/documents/Zentachain_Whitepaper_German.pdf)
