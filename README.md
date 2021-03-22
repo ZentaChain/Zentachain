@@ -2,7 +2,7 @@
 
 Zentachain is largely based and focused on communication. Zentachain uses ultra-secure encryption of data and communication on which multiple encryptions are applied. Zentachain knows that the time has come to communicate in a strong range offline to offline. Zentachain is exactly the opposite of today's communications and applications while you pay for free applications with your data and information. Zentachain rewards the users who support Zentameshnet with Zenta($CHAIN) by running a Zentanode.
 
-Zentachain enables users to communicate and store data with Zentalk and Zentavault within the ecosystem. All the running decentralized Apps will be anonymous and secure. There will be no record of users or linked transactions to prove and demonstrate the capabilities of Zentachain. Team introduces a decentralized ultra-secure messenger. More information can be found into the Whitepaper.
+Zentachain enables users to communicate not only online but also offline and store data with Zentalk and Zentavault within the ecosystem. All the running decentralized Apps will be anonymous and secure. There will be no record of users or linked transactions to prove and demonstrate the capabilities of Zentachain. Team introduces a decentralized ultra-secure messenger. More information can be found into the Whitepaper.
 
 ## Zentanetwork
 Zentanetwork is a forkless Proof of Stake network  for communication and data storage.
