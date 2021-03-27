@@ -1,8 +1,12 @@
 ## Zentachain
 
-Zentachain is largely based and focused on communication. Zentachain uses ultra-secure encryption of data and communication on which multiple encryptions are applied. Zentachain knows that the time has come to communicate in a strong range offline to offline. Zentachain is exactly the opposite of today's communications and applications while you pay for free applications with your data and information. Zentachain rewards the users who support Zentameshnet with Zenta($CHAIN) by running a Zentanode.
+Zentachain is a privacy-based project that focuses on communication and data storage, one of the most important issues of our day. The ecosystem is supported by its users and takes every precaution against various types of cyberattacks or hacking. Zentachain offers safe, fast, cheap, and applicable original solutions to the problems it focuses on. Zentachain is an open-source project and aims to bridge the gap between decentralized meshnetwork cloud services such as IPFS (https://ipfs.io) and dynamic routing and addressing protocols such as DNS and HTTPS.
 
-Zentachain enables users to communicate not only online but also offline and store data with Zentalk and Zentavault within the ecosystem. All the running decentralized Apps will be anonymous and secure. There will be no record of users or linked transactions to prove and demonstrate the capabilities of Zentachain. Team introduces a decentralized ultra-secure messenger. More information can be found into the Whitepaper.
+Zentachain provides the ability to address large amounts of data with IPFS and place non-modifiable, persistent IPFS connections in the Zentanetwork using a blockchain transaction. This timestamp and secures content without having to put the data into Zentanetwork itself. Zentachain has established an ecosystem that will save users significant money and information.
+
+Zentachain is fast, secure, and flexible access to data without any delay. Zentachain is a decentralized system and its ecosystem is designed in such a way that it never tracks the users and does not store or save any data. In order to use many Messenger applications, important personal data is requested from the users and as a result, many serious problems arise, to avoid all these problems, we have provided our users with the convenience of using Zentalk without requesting any information.
+
+Zentachain encourages users to support the Zentanetwork and increases security by rewarding users who support Zentanetwork with their cryptocurrency Zenta ($CHAIN). The purpose of Zentachain is to provide people and companies a way to stay safe without fear of eavesdropping, spying, or getting their data. The decentralized Offline Zentalk App has quantum resistance with multiple cryptography encryptions.
 
 ## Zentanetwork
 Zentanetwork is a forkless Proof of Stake network  for communication and data storage.
