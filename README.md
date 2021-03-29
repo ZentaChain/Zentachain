@@ -9,7 +9,7 @@ Zentachain is fast, secure, and flexible access to data without any delay. Zenta
 Zentachain encourages users to support the Zentanetwork and increases security by rewarding users who support Zentanetwork with their cryptocurrency Zenta ($CHAIN). The purpose of Zentachain is to provide people and companies a way to stay safe without fear of eavesdropping, spying, or getting their data. The decentralized Offline Zentalk App has quantum resistance with multiple cryptography encryptions.
 
 ## Zentanetwork
-Zentanetwork is a forkless Proof of Stake network  for communication and data storage.
+Zentanetwork is a forkless Proof of Stake(PoS) network  for communication and data storage.
 
 ## Zentalk
 
