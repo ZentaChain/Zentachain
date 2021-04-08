@@ -17,6 +17,7 @@ Zentalk is a highly secure hybrid encrypted, decentralized and peer-to-peer mess
 
 ## Zentalk-Web
 
+The web version of Zentalk it is currently in the stage of alpha testnet.
 * [Zentalk-Web](https://zentalk.chat)
 
 ## Zentavault
