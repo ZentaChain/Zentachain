@@ -30,10 +30,12 @@ Zentavault is a high-throughput encrypted and distributed file vault (encrypted 
 
 * [Zentamesh](https://github.com/ZentaChain/Zentamesh)
 
-## Zentagate
+## Zentamap
 
-* [Zentagate](https://github.com/ZentaChain/Zentamesh)
+A map explorer which shows active running rewarded Zentanodes, gateways, and routers.
+
+* [Zentagate](https://github.com/ZentaChain/Zentamap)
  
-## Zentachain Documentation
+## Documentation
 
 * [Documentation](https://docs.zentachain.io)
