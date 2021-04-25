@@ -9,7 +9,7 @@ Zentachain is really decentral and designed the ecosystem in such a way that it 
 
 ## Zentanetwork
 
-Zentanetwork is a forkless Proof of Stake(PoS) consensus  for communication and data storage.
+Zentanetwork is a forkless Proof of Stake(PoS) consensus for communication and data storage.
 
 ## Zentalk
 
@@ -28,14 +28,15 @@ Zentavault is a high-throughput encrypted and distributed file vault (encrypted 
 
 ## Zentameshnet
 
+Zentameshnet relays messages using either a flooding technique or a routing technique. With routing, the message moves along the road, jumping from one Zentanode to another until it reaches its destination.
 * [Zentamesh](https://github.com/ZentaChain/Zentamesh-rust)
 
 ## Zentamap
 
 A map explorer which shows active running rewarded Zentanodes, gateways, and routers.
-
 * [Zentagate](https://github.com/ZentaChain/Zentamap)
  
 ## Documentation
 
+The full documentation can be found on the Doc-Hub page of Zentachain.
 * [Documentation](https://docs.zentachain.io)
