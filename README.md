@@ -34,7 +34,7 @@ Zentameshnet relays messages using either a flooding technique or a routing tech
 ## Zentamap
 
 A map explorer which shows active running rewarded Zentanodes, gateways, and routers.
-* [Zentagate](https://github.com/ZentaChain/Zentamap)
+* [Zentamap](https://zentachain.io/zentamap)
  
 ## Documentation
 
