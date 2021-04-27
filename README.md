@@ -38,5 +38,5 @@ A map explorer which shows active running rewarded Zentanodes, gateways, and rou
  
 ## Documentation
 
-The full documentation can be found on the Doc-Hub page of Zentachain.
+The full documentation of Zentachain can be found on the Doc-Hub page.
 * [Documentation](https://docs.zentachain.io)
