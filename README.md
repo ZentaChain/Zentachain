@@ -9,7 +9,7 @@ Zentachain is really decentral and designed the ecosystem in such a way that it 
 
 ## Zentanetwork
 
-Zentanetwork is a forkless Proof of Stake(PoS) consensus for communication and data storage.
+Zentanetwork is a forkless Proof of Stake consensus for communication and data storage.
 
 ## Zentalk
 
@@ -18,13 +18,14 @@ Zentalk is a highly secure hybrid encrypted, decentralized and peer-to-peer mess
 ## Zentalk-Web
 
 The web version of Zentalk it is currently in the stage of alpha testnet.
-* [Zentalk-Web](https://zentalk.chat)
+
+[Zentalk-Web](https://zentalk.chat)
 
 ## Zentavault
 
-Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and transfer service. Unlike regular data storage systems, Zentavault will store nothing on the user's device. Zentavault acts as an encryption delivery tool, with the ability to encrypt and dynamically distribute content securely onto the InterPlanetary File System (IPFS). IPFS is a peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen as a single BitTorrent swarm, exchanging objects within one Git repository.
+Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and transfer service. Unlike regular data storage systems, Zentavault will store nothing on the user's device. Zentavault acts as an encryption delivery tool, with the ability to encrypt and dynamically distribute content securely onto the InterPlanetary File System. IPFS is a peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen as a single BitTorrent swarm, exchanging objects within one Git repository.
 
-* [Zentavault](https://github.com/ZentaChain/Zentavault)
+[Zentavault](https://github.com/ZentaChain/Zentavault)
 
 ## Zentameshnet
 
@@ -34,9 +35,11 @@ Zentameshnet relays messages using either a flooding technique or a routing tech
 ## Zentamap
 
 A map explorer which shows active running rewarded Zentanodes, gateways, and routers.
-* [Zentamap](https://zentachain.io/zentamap)
+
+[Zentamap](https://zentachain.io/zentamap)
  
 ## Documentation
 
 The full documentation of Zentachain can be found on the Doc-Hub page.
-* [Documentation](https://docs.zentachain.io)
+
+[Documentation](https://docs.zentachain.io)
