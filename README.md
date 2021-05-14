@@ -23,7 +23,7 @@ The web version of Zentalk it is currently in the stage of alpha testnet.
 
 ## Zentavault
 
-Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and transfer service. Unlike regular data storage systems, Zentavault will store nothing on the user's device. Zentavault acts as an encryption delivery tool, with the ability to encrypt and dynamically distribute content securely onto the InterPlanetary File System. IPFS is a peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files. In some ways, IPFS is similar to the World Wide Web, but IPFS could be seen as a single BitTorrent swarm, exchanging objects within one Git repository.
+Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and transfer service. Unlike regular data storage systems, Zentavault will store nothing on the user's device. Zentavault acts as an encryption delivery tool, with the ability to encrypt and dynamically distribute content securely onto the InterPlanetary File System.
 
 [Zentavault](https://github.com/ZentaChain/Zentavault)
 
