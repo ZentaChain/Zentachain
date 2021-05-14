@@ -30,7 +30,8 @@ Zentavault is a high-throughput encrypted and distributed file vault (encrypted 
 ## Zentameshnet
 
 Zentameshnet relays messages using either a flooding technique or a routing technique. With routing, the message moves along the road, jumping from one Zentanode to another until it reaches its destination.
-* [Zentamesh](https://github.com/ZentaChain/Zentamesh-rust)
+
+[Zentamesh](https://github.com/ZentaChain/Zentamesh-rust)
 
 ## Zentamap
 
