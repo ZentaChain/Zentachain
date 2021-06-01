@@ -37,6 +37,10 @@ Zentameshnet relays messages using either a flooding technique or a routing tech
 A map explorer which shows active running rewarded Zentanodes, gateways, and routers.
 
 [Zentamap](https://zentachain.io/zentamap)
+
+## Chaindefi
+
+Chaindefi is a dectralized all in one defi.
  
 ## Documentation
 
