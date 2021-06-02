@@ -40,7 +40,7 @@ A map explorer which shows active running rewarded Zentanodes, gateways, and rou
 
 ## Chaindefi
 
-Chaindefi is a dectralized all in one defi.
+Chaindefi is a decentralized all in one defi.
  
 ## Documentation
 
