@@ -38,6 +38,9 @@ A map explorer which shows active running rewarded Zentanodes, gateways, and rou
 
 [Zentamap](https://zentachain.io/zentamap)
 
+## Trade-Hub
+A cross-network trade hub of Zentachain.
+
 ## Chaindefi
 
 Chaindefi is a decentralized all in one defi.
