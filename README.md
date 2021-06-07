@@ -41,6 +41,9 @@ A map explorer which shows active running rewarded Zentanodes, gateways, and rou
 ## Trade-Hub
 A cross-network trade hub of Zentachain.
 
+## Zentachain Community
+This section is for discussions around the Zentachain ecosystem and is open to all.
+
 ## Chaindefi
 
 Chaindefi is a decentralized all in one defi.
