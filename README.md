@@ -39,9 +39,13 @@ A map explorer which shows active running rewarded Zentanodes, gateways, and rou
 [Zentamap](https://zentachain.io/zentamap)
 
 ## Trade-Hub
+
 A cross-network trade hub of Zentachain.
 
+[Trade-Hub](https://github.com/ZentaChain/Zentachain-Trade-Hub)
+
 ## Community-Hub
+
 This section is for discussions around the Zentachain ecosystem and is open to all.
 
 ## Chaindefi
