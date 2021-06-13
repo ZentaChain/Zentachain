@@ -40,7 +40,7 @@ A map explorer which shows active running rewarded Zentanodes, gateways, and rou
 
 ## Trade-Hub
 
-A cross-network trade hub of Zentachain.
+The Trade-Hub is a decentralized cross-network trade hub of Zentachain.
 
 [Trade-Hub](https://github.com/ZentaChain/Zentachain-Trade-Hub)
 
