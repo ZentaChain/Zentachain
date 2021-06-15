@@ -10,21 +10,11 @@ Zentachain uses hybrid encryption of data and communication, applying multiple e
 
 Zentanetwork is a forkless Proof of Stake consensus for communication and data storage.
 
+[Zentanetwork](https://docs.zentachain.io/zentanetwork)
+
 ## Zentalk
 
 Zentalk is a highly secure hybrid encrypted, decentralized and peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, it has no server point. Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes, inclusive hashing function Blake2, and the TOR-Network.
-
-## Zentalk-Web
-
-The web version of Zentalk it is currently in the stage of Beta Testnet.
-
-[Zentalk-Web](https://zentalk.chat)
-
-## Zentavault
-
-Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and transfer service. Unlike regular data storage systems, Zentavault will store nothing on the user's device. Zentavault acts as an encryption delivery tool, with the ability to encrypt and dynamically distribute content securely onto the InterPlanetary File System.
-
-[Zentavault](https://github.com/ZentaChain/Zentavault)
 
 ## Zentameshnet
 
@@ -32,7 +22,13 @@ Zentameshnet relays messages using either a flooding technique or a routing tech
 
 [Zentamesh](https://github.com/ZentaChain/Zentamesh-rust)
 
-## Zentamap
+## Zentalk-Web
+
+The web version of Zentalk it is currently in the stage of Beta Testnet.
+
+[Zentalk-Web](https://zentalk.chat)
+
+## Zentamap (Node Explorer)
 
 A map explorer which shows active running rewarded Zentanodes, gateways, and routers.
 
@@ -44,6 +40,12 @@ The Trade-Hub is a decentralized cross-network trade hub of Zentachain.
 
 [Trade-Hub](https://github.com/ZentaChain/Zentachain-Trade-Hub)
 
+## Zentavault
+
+Zentavault is a high-throughput encrypted and distributed file vault (encrypted storage) and transfer service. Unlike regular data storage systems, Zentavault will store nothing on the user's device. Zentavault acts as an encryption delivery tool, with the ability to encrypt and dynamically distribute content securely onto the InterPlanetary File System.
+
+[Zentavault](https://github.com/ZentaChain/Zentavault)
+
 ## Community-Hub
 
 This section is for discussions around the Zentachain ecosystem and is open to all.
@@ -52,8 +54,8 @@ This section is for discussions around the Zentachain ecosystem and is open to a
 
 Chaindefi is a decentralized all in one defi.
  
-## Documentation
+## Documentation Hub
 
 The full documentation of Zentachain can be found on the Doc-Hub page.
 
-[Documentation](https://docs.zentachain.io)
+[Doc-Hub](https://docs.zentachain.io)
