@@ -38,7 +38,7 @@ A map explorer which shows active running rewarded Zentanodes, Gateways, and Rou
 
 The Trade-Hub is a decentralized cross-network trade hub of Zentachain.
 
-[Trade-Hub](https://github.com/ZentaChain/Zentachain-Trade-Hub)
+[Trade-Hub](https://trade.zentachain.io)
 
 ## Zentavault
 
