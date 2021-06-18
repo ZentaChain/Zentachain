@@ -30,7 +30,7 @@ The web version of Zentalk it is currently in the stage of Beta Testnet.
 
 ## Zentamap (Node Explorer)
 
-A map explorer which shows active running rewarded Zentanodes, gateways, and routers.
+A map explorer which shows active running rewarded Zentanodes, Gateways, and Routers.
 
 [Zentamap](https://zentachain.io/zentamap)
 
