@@ -49,10 +49,6 @@ Zentavault is a high-throughput encrypted and distributed file vault (encrypted 
 ## Community-Hub
 
 This section is for discussions around the Zentachain ecosystem and is open to all.
-
-## Chaindefi
-
-Chaindefi is a decentralized all in one defi.
  
 ## Documentation Hub
 
