@@ -6,15 +6,15 @@ Zentachain encourages users to support the Zentanetwork and increases security b
 
 Zentachain uses hybrid encryption of data and communication, applying multiple encryption. The first product Zentalk will not just be an ordinary messenger application as you know it today. Zentachain offers the possibility to communicate in a wide range between offline and offline. So users can communicate with each other even if there is no any internet connection via Zentalk App.
 
+## Zentalk
+
+Zentalk is a highly secure hybrid encrypted, decentralized and peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, it has no server point. Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes and the TOR-Network.
+
 ## Zentanetwork
 
 Zentanetwork is a forkless Proof of Stake consensus for communication and data storage.
 
 [Zentanetwork](https://docs.zentachain.io/zentanetwork)
-
-## Zentalk
-
-Zentalk is a highly secure hybrid encrypted, decentralized and peer-to-peer messenger. Next to great usability, under the hood, you’ll find state-of-the-art encryption with AES-256, Diffie-Helman, RSA and El-Gamal security. Zentalk is decentralized, it has no server point. Zentachain guarantees full anonymity and offline communication between the sender and receiver using Zentanodes and the TOR-Network.
 
 ## Zentameshnet
 
