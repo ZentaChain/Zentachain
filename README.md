@@ -16,6 +16,9 @@ Zentanetwork is a forkless Proof of Stake consensus for communication and data s
 
 [Zentanetwork](https://docs.zentachain.io/zentanetwork)
 
+## Katsumi
+---
+
 ## Zentameshnet
 
 Zentameshnet relays messages using either a flooding technique or a routing technique. With routing, the message moves along the road, jumping from one Zentanode to another one until it reaches its destination.
