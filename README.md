@@ -17,7 +17,7 @@ Zentanetwork is a forkless Proof of Stake consensus for communication and data s
 [Zentanetwork](https://docs.zentachain.io/zentanetwork)
 
 ## Katsumi
----
+Katsumi is a network of the Zentachain project. It uses the same code as Zentachain. The purpose of the Katsumi project is to be a pure community-driven network. Katsumi is the early phase of Zentachain to analyze the future of Zentachain, also known as Zentanetwork, through experimentation.
 
 ## Zentameshnet
 
