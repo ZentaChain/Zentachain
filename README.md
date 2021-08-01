@@ -1,4 +1,4 @@
-## Zentachain
+# Zentachain
 
 Zentachain is a privacy-based project that focuses on communication and data storage. Original and effective solutions are provided for security and data ownership problems. Zentachain is an open-source project and objects to fill the gap between decentralized networks, and cloud services such as IPFS ​and dynamic routing.
 
@@ -17,7 +17,10 @@ Zentanetwork is a forkless Proof of Stake consensus for communication and data s
 [Zentanetwork](https://docs.zentachain.io/zentanetwork)
 
 ## Katsumi
-Katsumi is a network of the Zentachain project. It uses the same code as Zentachain. The purpose of the Katsumi project is to be a pure community-driven network. Katsumi is the early phase of Zentachain to analyze the future of Zentachain, also known as Zentanetwork, through experimentation.
+
+Katsumi is a network of the Zentachain project. It uses the same code as Zentachain. The purpose of the Katsumi project is to be a pure community-driven network. Katsumi is the early phase of Zentanetwork to analyze the future of Zentachain, through experimentation.
+
+[Katsuminetwork](https://docs.zentachain.io/katsuminetwork)
 
 ## Zentameshnet
 
