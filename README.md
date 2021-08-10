@@ -4,7 +4,7 @@ Zentachain is a privacy-based project that focuses on communication and data sto
 
 Zentachain encourages users to support the Zentanetwork and increases security by rewarding users who support Zentanetwork with native cryptocurrency Zentachain CHAIN. The purpose of Zentachain is to provide people and companies a way to stay safe without fear of eavesdropping, spying, or getting their data. User privacy, confidentiality, and freedom of communication are the top priority for Zentachain.
 
-Zentachain uses hybrid encryption of data and communication, applying multiple encryption. The first product Zentalk will not just be an ordinary messenger application as you know it today. Zentachain offers the possibility to communicate in a wide range between offline and offline. So users can communicate with each other even if there is no any internet connection via Zentalk App.
+Zentachain uses hybrid encryption of data and communication, applying multiple encryption. The first product Zentalk will not just be an ordinary messenger application as you know it today. Zentachain offers the possibility to communicate in a wide range between offline and offline. So users can communicate with each other even if there is no any internet connection via Zentalk Messenger App.
 
 ## Zentalk
 
