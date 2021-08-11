@@ -22,12 +22,6 @@ Katsumi is a network of the Zentachain project. It uses the same code as Zentach
 
 [Katsuminetwork](https://docs.zentachain.io/katsuminetwork)
 
-## Zentameshnet
-
-Zentameshnet relays messages using either a flooding technique or a routing technique. With routing, the message moves along the road, jumping from one Zentanode to another one until it reaches its destination.
-
-[Zentameshnet](https://github.com/ZentaChain/Zentamesh-rust)
-
 ## Zentalk-Web
 
 The web version of Zentalk it is currently in the stage of Beta Testnet.
@@ -35,9 +29,20 @@ The web version of Zentalk it is currently in the stage of Beta Testnet.
 [Zentalk-Web](https://zentalk.chat)
 
 ## Zentamap
+
 A map explorer which shows active running Zentanodes, Gateways, and Routers.
 
 [Zentamap](https://zentachain.io/zentamap)
+
+## Zentanode
+
+----
+
+## Zentameshnet
+
+Zentameshnet relays messages using either a flooding technique or a routing technique. With routing, the message moves along the road, jumping from one Zentanode to another one until it reaches its destination.
+
+[Zentameshnet](https://github.com/ZentaChain/Zentamesh-rust)
 
 ## Trade-Hub
 
