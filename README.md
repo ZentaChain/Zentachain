@@ -28,21 +28,23 @@ The web version of Zentalk it is currently in the stage of Beta Testnet.
 
 [Zentalk-Web](https://zentalk.chat)
 
-## Zentamap
-
-A map explorer which shows active running Zentanodes, Gateways, and Routers.
-
-[Zentamap](https://zentachain.io/zentamap)
-
 ## Zentanode
 
-----
+A hardware node that allows users to communicate offline to offline.
+
+[Zentanode]()
 
 ## Zentameshnet
 
 Zentameshnet relays messages using either a flooding technique or a routing technique. With routing, the message moves along the road, jumping from one Zentanode to another one until it reaches its destination.
 
 [Zentameshnet](https://github.com/ZentaChain/Zentamesh-rust)
+
+## Zentamap
+
+A map explorer which shows active running Zentanodes, Gateways, and Routers.
+
+[Zentamap](https://zentachain.io/zentamap)
 
 ## Trade-Hub
 
