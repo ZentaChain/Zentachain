@@ -34,6 +34,12 @@ A hardware node that allows users to communicate offline to offline.
 
 [Zentanode]()
 
+## Flasher
+
+The Flasher is an application for the Zentanode and is designed to flash the node and update the software.
+
+[Flasher]()
+
 ## Zentameshnet
 
 Zentameshnet relays messages using either a flooding technique or a routing technique. With routing, the message moves along the road, jumping from one Zentanode to another one until it reaches its destination.
