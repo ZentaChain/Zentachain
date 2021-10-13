@@ -16,15 +16,15 @@ Zentanetwork is a forkless Proof of Stake consensus for communication and data s
 
 [Zentanetwork](https://docs.zentachain.io/zentanetwork)
 
-## Katsumi
+## Katsuminetwork
 
-Katsumi is a network of the Zentachain project. It uses the same code as the Zentanetwork (CHAIN). The purpose of the Katsumi project is to be a pure community-driven network. Katsumi is the early phase network to analyze the future of Zentanetwork, through experimentation.
+Katsumi is a network of the Zentachain project it uses the same code as the Zentanetwork (CHAIN). The purpose of the Katsumi is to be a pure community-driven network also known as the early phase network to analyze the future of Zentanetwork, through experimentation.
 
 [Katsuminetwork](https://docs.zentachain.io/katsuminetwork)
 
-## Zentalk-Web
+## Zentalk Web
 
-The web version of Zentalk it is currently in the stage of Beta Testnet.
+The web version of Zentalk it is currently in the stage of Alpha Testnet.
 
 [Zentalk-Web](https://zentalk.chat)
 
@@ -40,9 +40,9 @@ The Flasher is an application for the Zentanode and is designed to flash the nod
 
 [Flasher]()
 
-## Zentameshnet
+## Zentameshnetwork
 
-Zentameshnet relays messages using either a flooding technique or a routing technique. With routing, the message moves along the road, jumping from one Zentanode to another one until it reaches its destination.
+Zentamesh network relays messages using either a flooding technique or a routing technique. With routing, the message moves along the road, jumping from one Zentanode to another node until it reaches its destination to the receiver.
 
 [Zentameshnet](https://github.com/ZentaChain/Zentamesh-rust)
 
