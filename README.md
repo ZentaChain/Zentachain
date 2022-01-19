@@ -10,13 +10,13 @@ Zentachain uses hybrid encryption within its products, employing multiple encryp
 
 The Zentanetwork is designed to enable offline communication in the Zentameshnet. The ecosystem contains all the necessary technologies to create and host scalable decentralized databases, distributed services and p2p decentralized communications.
 
-[Zentanetwork](https://docs.zentachain.io/zentanetwork)
+[Zenta-network](https://docs.zentachain.io/zentanetwork)
 
 ## Katsuminetwork
 
 Zentachain's Katsumi network uses the same code as the Zentachain project. In an early phase of Zentanetwork, Katsumi's mission is to be a community-driven network to analyze the future of Zentachain.
 
-[Katsuminetwork](https://docs.zentachain.io/katsuminetwork)
+[Katsumi-network](https://docs.zentachain.io/katsuminetwork)
 
 ---
 
@@ -40,9 +40,9 @@ Zentanode is an offline-to-offline hardware node miner that allows users to comm
 
 ## Zentanode Explorer
 
-A map explorer which shows active running Zentanodes, Gateways, and Routers.
+Zentanode explorer shows active running Zentanodes, Gateways, Staking, Rewards, Market and Routers.
 
-[Zentanode-Explorer](https://zentachain.io/zentamap)
+[Zentanode-Explorer](https://zentachain.io/explorer)
 
 ## Zentamesh
 
