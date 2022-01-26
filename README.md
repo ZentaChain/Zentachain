@@ -44,9 +44,9 @@ Zentanode explorer shows active running Zentanodes, Gateways, Staking, Rewards, 
 
 [Zentanode-Explorer](https://zentachain.io/explorer)
 
-## Zentamesh
+## Zentameshnet
 
-Zentamesh network relays messages using either a flooding technique.
+Zentameshnet relays messages using either a flooding technique.
 
 [Zentameshnet](https://docs.zentachain.io/Overview/introduction)
 
