@@ -40,7 +40,7 @@ Zentanode is an offline-to-offline hardware node miner that allows users to comm
 
 ## Zentanode Explorer
 
-Zentanode explorer shows active running Zentanodes, Gateways, Staking, Rewards, Market and Routers.
+Zentanode explorer shows active running Zentanodes, Gateways, Staking, Rewards, Market and Messages.
 
 [Zentanode-Explorer](https://zentachain.io/explorer)
 
