@@ -18,11 +18,15 @@ Zentachain's Katsumi network uses the same code as the Zentachain project. In an
 
 [Katsumi-network](https://docs.zentachain.io/katsuminetwork)
 
----
-
 ## Zentalk
 
 Zentalk is an ultra-secure decentralized peer-to-peer messenger application without cloud storage. Next to superior usability, under the hood, users will find state-of-the-art encryption hybrid with AES-256, Diffie-Helman, RSA, and El-Gamal security. By using Zentalk with Zentanodes and the Tor network you can maintain anonymity and conduct offline communications.
+
+## Zentanode Explorer
+
+Zentanode explorer shows active running Zentanodes, Gateways, Staking, Rewards, Market and Messages.
+
+[Zentanode-Explorer](https://explorer.zentachain.io)
 
 ## Zentalk Web
 
@@ -30,19 +34,11 @@ The web version of Zentalk it is currently in the stage of Alpha Testnet.
 
 [Zentalk-Web](https://zentalk.chat)
 
----
-
 ## Zentanode
 
 Zentanode is an offline-to-offline hardware node miner that allows users to communicate offline.
 
 [Zentanode](https://github.com/ZentaChain/Zentanode)
-
-## Zentanode Explorer
-
-Zentanode explorer shows active running Zentanodes, Gateways, Staking, Rewards, Market and Messages.
-
-[Zentanode-Explorer](https://zentachain.io/explorer)
 
 ## Zentameshnet
 
@@ -56,23 +52,17 @@ The Flasher is an application for the Zentanode and is designed to flash the nod
 
 [Zentanode Flasher](https://github.com/ZentaChain/Zentanode-Flasher)
 
----
-
 ## Trade-Hub
 
 The Trade-Hub is a decentralized cross-network trade-hub of Zentachain.
 
 [Trade-Hub](https://trade.zentachain.io)
 
----
-
 ## Zentavault
 
 Zentavault is a high-throughput encrypted and distributed file vaulting & transfer service. The Zentavault system will not store anything on the user's device, unlike regular data storage systems. In addition to acting as an encryption delivery tool, Zentavault is also capable of dynamically encrypting and distributing content securely on the InterPlanetary File System.
 
 [Zentavault](https://github.com/ZentaChain/Zentavault)
-
----
  
 ## Documentation Hub
 
@@ -80,8 +70,8 @@ Under the Doc-Hub page, you can find Zentachain's complete documentation.
 
 [Doc-Hub](https://docs.zentachain.io)
 
-## Community-Hub
+## Community
 
-Community-Hub section is for discussions about the Zentachain ecosystem.
+Forum-Hub section is for discussions about the Zentachain ecosystem.
 
-[Discuss-Hub]()
+[Forum](http://forum.zentachain.io)
