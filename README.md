@@ -36,7 +36,7 @@ The web version of Zentalk it is currently in the stage of Alpha Testnet.
 
 ## Zentanode
 
-Zentanode is an offline-to-offline hardware node miner that allows users to communicate offline.
+Zentanode is a device that allows users to communicate offline.
 
 [Zentanode](https://github.com/ZentaChain/Zentanode)
 
