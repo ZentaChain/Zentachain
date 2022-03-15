@@ -40,9 +40,9 @@ Zentanode is a device that allows users to communicate offline.
 
 [Zentanode](https://github.com/ZentaChain/Zentanode)
 
-## Zentameshnet
+## Zentamesh
 
-Zentameshnet relays messages using either a flooding technique.
+Zentamesh relays messages using either a flooding technique.
 
 [Zentameshnet](https://docs.zentachain.io/Overview/introduction)
 
@@ -63,10 +63,16 @@ The Trade-Hub is a decentralized cross-network trade-hub of Zentachain.
 Zentavault is a high-throughput encrypted and distributed file vaulting & transfer service. The Zentavault system will not store anything on the user's device, unlike regular data storage systems. In addition to acting as an encryption delivery tool, Zentavault is also capable of dynamically encrypting and distributing content securely on the InterPlanetary File System.
 
 [Zentavault](https://github.com/ZentaChain/Zentavault)
+
+## Onlinestore
+
+Zentachain offers an online store where you can buy a Zentanode miner and support the Zentamesh network. Supporters will receive CHAIN tokens in return. Check out the doc-hub before buying a node. This [guide](https://docs.zentachain.io/zentanode/purchase-guide) introducing how you can buy a node and what you need to keep in mind.
+
+[Onlinestore](https://shop.zentachain.io)
  
 ## Documentation Hub
 
-Under the Doc-Hub page, you can find Zentachain's complete documentation.
+A complete set of Zentachain's documentation is available on the Doc-Hub website.
 
 [Doc-Hub](https://docs.zentachain.io)
 
