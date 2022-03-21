@@ -52,6 +52,12 @@ The Flasher is an application for the Zentanode and is designed to flash the nod
 
 [Zentanode Flasher](https://github.com/ZentaChain/Zentanode-Flasher)
 
+## Onlinestore
+
+Zentachain offers an online store where you can buy a Zentanode miner and support the Zentamesh network. Supporters will receive CHAIN tokens in return. Check out the doc-hub before buying a node. This [guide](https://docs.zentachain.io/zentanode/purchase-guide) introducing how you can buy a node and what you need to keep in mind.
+
+[Onlinestore](https://zentanode.com)
+
 ## Trade-Hub
 
 The Trade-Hub is a decentralized cross-network trade-hub of Zentachain.
@@ -63,12 +69,6 @@ The Trade-Hub is a decentralized cross-network trade-hub of Zentachain.
 Zentavault is a high-throughput encrypted and distributed file vaulting & transfer service. The Zentavault system will not store anything on the user's device, unlike regular data storage systems. In addition to acting as an encryption delivery tool, Zentavault is also capable of dynamically encrypting and distributing content securely on the InterPlanetary File System.
 
 [Zentavault](https://github.com/ZentaChain/Zentavault)
-
-## Onlinestore
-
-Zentachain offers an online store where you can buy a Zentanode miner and support the Zentamesh network. Supporters will receive CHAIN tokens in return. Check out the doc-hub before buying a node. This [guide](https://docs.zentachain.io/zentanode/purchase-guide) introducing how you can buy a node and what you need to keep in mind.
-
-[Onlinestore](https://shop.zentachain.io)
  
 ## Documentation Hub
 
