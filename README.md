@@ -12,11 +12,11 @@ The Zentanetwork is designed to enable offline communication in the Zentameshnet
 
 [Zenta-network](https://docs.zentachain.io/zentanetwork)
 
-## Katsuminetwork
+## Katsuminetwork // Update
 
 Zentachain's Katsumi network uses the same code as the Zentachain project. In an early phase of Zentanetwork, Katsumi's mission is to be a community-driven network to analyze the future of Zentachain.
 
-[Katsumi-network](https://docs.zentachain.io/katsuminetwork)
+[Katsumi-network]()
 
 ## Zentalk
 
