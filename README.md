@@ -20,7 +20,7 @@ Zentachain's Katsumi network uses the same code as the Zentachain project. In an
 
 ## Zentalk
 
-Zentalk is an ultra-secure decentralized peer-to-peer messenger application without cloud storage. Next to superior usability, under the hood, users will find state-of-the-art encryption hybrid with AES-256, Diffie-Helman, RSA, and El-Gamal security. By using Zentalk with Zentanodes and the Tor network you can maintain anonymity and conduct offline communications.
+Zentalk is an ultra-secure decentralized peer-to-peer messenger application without cloud storage. Next to superior usability, users will find state-of-the-art encryption hybrid with AES-256, Diffie-Helman, RSA, and El-Gamal security. By using Zentalk with Zentanodes and the Tor network you can maintain anonymity and conduct offline communications.
 
 ## Zentanode Explorer
 
