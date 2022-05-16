@@ -28,9 +28,15 @@ Alnitak network uses the same code as the Zentachain project. In an early phase 
 
 Zentalk is an ultra-secure decentralized peer-to-peer messenger application without cloud storage. Next to superior usability, users will find state-of-the-art encryption hybrid with AES-256, Diffie-Helman, RSA, and El-Gamal security. By using Zentalk with Zentanodes and the Tor network you can maintain anonymity and conduct offline communications.
 
+## Zentanode
+
+Zentanode is a device that allows users to communicate offline over an area several kilometers wide. You simply support the network in return for receiving CHAIN token rewards. Zentanode can be purchased only on the official Zentachain online store.
+
+[Zentanode Onlinestore](https://zentanode.com)
+
 ## Zentanode Explorer
 
-Zentanode explorer shows active running Zentanodes, Gateways, Staking, Rewards, Market and Messages.
+The Zentanode Explorer displays the currently running Zentanodes, gateways, staking, rewards, and market information, and users can connect Zentanodes with the explorer to communicate offline in a decentralized network.
 
 [Zentanode-Explorer](https://explorer.zentachain.io)
 
@@ -40,23 +46,17 @@ The web version of Zentalk it is currently in the stage of Alpha Testnet.
 
 [Zentalk-Web](https://zentalk.chat)
 
-## Zentanode
-
-Zentanode is a device that allows users to communicate offline.
-
-[Zentanode](https://github.com/ZentaChain/Zentanode)
-
 ## Zentamesh
 
 Zentamesh relays messages using either a flooding technique.
 
 [Zentameshnet](https://docs.zentachain.io/Overview/introduction)
 
-## Zentanode Flasher
+## Zentanode Updater
 
-The Flasher is an application for the Zentanode and is designed to flash the node and update the software.
+Updater is an application that updates the Zentanode device and updates its software.
 
-[Zentanode Flasher](https://github.com/ZentaChain/Zentanode-Flasher)
+[Zentanode Flasher](https://github.com/ZentaChain/Zentanode-Updater)
 
 ## Onlinestore
 
@@ -81,9 +81,3 @@ Zentavault is a high-throughput encrypted and distributed file vaulting & transf
 A complete set of Zentachain's documentation is available on the Doc-Hub website.
 
 [Doc-Hub](https://docs.zentachain.io)
-
-## Community
-
-Forum-Hub section is for discussions about the Zentachain ecosystem.
-
-[Forum](http://forum.zentachain.io)
