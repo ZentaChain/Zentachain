@@ -54,7 +54,7 @@ Zentamesh relays messages using either a flooding technique.
 
 ## Zentanode Updater
 
-Updater is an application that updates the Zentanode device and updates its software.
+Updater is an application designed to inject new releases into the Zentanode device and update the software.
 
 [Zentanode Updater](https://github.com/ZentaChain/Zentanode-Updater)
 
