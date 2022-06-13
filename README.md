@@ -18,12 +18,6 @@ The Zentanetwork is designed to enable offline communication in the Zentameshnet
 
 [Zenta-network](https://docs.zentachain.io/zentanetwork)
 
-## Alnitak
-
-Alnitak network uses the same code as the Zentachain project. In an early phase of Zentanetwork, Alnitak's mission is to be a community-driven network as a parachain to analyze the future of Zentachain.
-
-[Alnitak-network]()
-
 ## Zentalk
 
 Zentalk is an ultra-secure decentralized peer-to-peer messenger application without cloud storage. Next to superior usability, users will find state-of-the-art encryption hybrid with AES-256, Diffie-Helman, RSA, and El-Gamal security. By using Zentalk with Zentanodes and the Tor network you can maintain anonymity and conduct offline communications.
