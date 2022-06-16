@@ -32,7 +32,7 @@ Zentanode is a device that allows users to communicate offline over an area seve
 
 The Zentanode Explorer displays the currently running Zentanodes, gateways, staking, rewards, and market information, and users can connect Zentanodes with the explorer to communicate offline in a decentralized network.
 
-[Zentanode-Explorer](https://explorer.zentachain.io)
+[Zentanode-Explorer](https://explorer.zentanode.com/)
 
 ## Zentalk Web
 
