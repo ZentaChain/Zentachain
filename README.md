@@ -1,6 +1,6 @@
 # Zentachain
 
-Zentachain is a privacy-focused IoT blockchain networking project that is focused on communication and data storage. Innovative and useful solutions are provided for issues of security and data ownership. An open-source project that aims to connect decentralized networks, cloud services like IPFS, dynamic routing, and mesh networking.
+Zentachain is a privacy-focused IoT blockchain networking project that is focused on offline communication and data storage. Innovative and useful solutions are provided for issues of security and data ownership. An open-source project that aims to connect decentralized networks, cloud services like IPFS, dynamic routing, and mesh networking.
 
 The Zentachain initiative rewards users who participate in the Zentamesh activities with native cryptocurrency CHAIN, and it encourages users to support the network. It provides a method for people and businesses to stay safe without having to worry about centralized eavesdropping or surveillance. Privacy, discretion, and freedom of Telecommunication are among Zentachain's solutions.
 
