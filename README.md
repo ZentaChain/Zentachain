@@ -42,7 +42,9 @@ The web version of Zentalk it is currently in the stage of Alpha Testnet.
 
 ## Zentamesh
 
-Zentamesh relays messages using either a flooding technique.
+Within Zentameshnet, data is transported either by a flooding technique or a routing method. Messages take the optimal route, passing from one Zentanode to the next until they reach the destination. In order to keep the availability of all routes active in all situations, the network allows continuous connections using algorithms equipped with self-healing capabilities such as "Shortest Path Bridging".
+
+Zentamesh relays messages using either a flooding technique. Zentamesh has a self-healing feature as a defense mechanism against censorship resistance. Self-healing means that if a node's connection ever fails, the mesh network can patch and redirect around the lost node. Data always finds a new path and keeps the network active without interruption.
 
 [Zentameshnet](https://docs.zentachain.io/Overview/introduction)
 
