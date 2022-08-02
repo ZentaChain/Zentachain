@@ -2,7 +2,7 @@
 
 Zentachain is a privacy-focused IoT blockchain networking project that is focused on offline communication and data storage. Innovative and useful solutions are provided for issues of security and data ownership. An open-source project that aims to connect decentralized networks, cloud services like IPFS, dynamic routing, and mesh networking.
 
-The Zentachain initiative rewards users who participate in the Zentamesh activities with native cryptocurrency CHAIN, and it encourages users to support the network. It provides a method for people and businesses to stay safe without having to worry about centralized eavesdropping or surveillance. Privacy, discretion, and freedom of Telecommunication are among Zentachain's solutions.
+The Zentachain initiative rewards users who participate in Zentamesh activities with the native cryptocurrency CHAIN and encourages users to support the network. It provides a way for people and businesses to stay secure without worrying about centralized networking. Privacy, data protection, and decentralized telecommunications are among Zentachain's solutions.
 
 Zentachain uses a hybrid encryption technique in its products, using several encryptions to protect sensitive information, data, and communications. The Zentalk decentralized application is not just a messenger application as it exists today like other ones which are most like a centralized network. 
 
@@ -10,7 +10,7 @@ Zentalk offers the ability to interact with people in a variety of situations li
 
 As a result, communication may be maintained even if access to the Internet is unavailable like shutdown or offline. Zentalk's security hub is visible not just in its hybrid encryptions and decentralized security, but also in Zentanodes IoT devices that guarantee long-range connections under any circumstances.
 
-The Zentameshnet network is a mesh network that uses can comes with blockchain technology to provide secure communication and data sharing by relaying data across the network. Zentameshnet using its nodes was designed and developed by Zentachain. Zentanode can be thought of as an IoT device gateway or node point in the network.
+The Zentameshnet network is a mesh network that uses can comes with blockchain technology to provide secure communication and data sharing by relaying data across the network. A Zentanode can be thought of as an IoT device gateway or node point in the network.
 
 ## Zentanetwork
 
@@ -24,7 +24,7 @@ Zentalk is an ultra-secure decentralized peer-to-peer messenger application with
 
 ## Zentanode
 
-Zentanode is a device that allows users to communicate offline over an area several kilometers wide. You simply support the network in return for receiving CHAIN token rewards. Zentanode can be purchased only on the official Zentachain online store.
+Zentanode is a device that allows users to communicate offline over a range of several kilometers. The user simply supports the network and receives CHAIN token rewards in return. The official Zentachain online store is the only place to purchase Zentanode.
 
 [Zentanode Onlinestore](https://zentanode.com)
 
