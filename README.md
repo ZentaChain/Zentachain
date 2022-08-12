@@ -76,3 +76,9 @@ Zentavault is a high-throughput encrypted and distributed file vaulting & transf
 A complete set of Zentachain's documentation is available on the Doc-Hub website.
 
 [Doc-Hub](https://docs.zentachain.io)
+
+## Developer Hub
+
+For developers who are interested in integration, nodes, APIs, or zentamesh, Developer-hub is the place to be.
+
+[Dev-Hub](https://devs.zentachain.io)
