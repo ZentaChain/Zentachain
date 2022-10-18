@@ -67,7 +67,7 @@ Zentachain's Trade Hub is a decentralized trading platform. The application is i
 
 ## Staking Dashboard
 
-Staking Dashboard Beta 1.0.0. Try out the new app for the easiest way to stake yourCHAIN, check rewards stats, and manage your wallet.
+Staking Dashboard Beta 1.0.0. Try out the new app for the easiest way to stake your CHAIN, check rewards stats, and manage your wallet.
 
 [Staking](https://staking.zentachain.io)
 
