@@ -70,12 +70,6 @@ Zentachain's Trade Hub is a decentralized trading platform. The application is i
 Staking Dashboard Beta 1.0.0. Try out the new app for the easiest way to stake your CHAIN, check rewards stats, and manage your wallet.
 
 [Staking](https://staking.zentachain.io)
-
-## Zentavault
-
-Zentavault is a high-throughput encrypted and distributed file vaulting & transfer service. The Zentavault system will not store anything on the user's device, unlike regular data storage systems. In addition to acting as an encryption delivery tool, Zentavault is also capable of dynamically encrypting and distributing content securely on the InterPlanetary File System.
-
-[Zentavault](https://github.com/ZentaChain/Zentavault)
  
 ## Documentation Hub
 
