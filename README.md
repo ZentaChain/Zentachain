@@ -16,7 +16,7 @@ The Zentameshnet network is a mesh network that uses can comes with blockchain t
 
 The Zentanetwork is designed to enable offline communication in the Zentameshnet. The ecosystem contains all the necessary technologies to create and host scalable decentralized databases, distributed services and p2p decentralized communications.
 
-[Zenta-network](https://docs.zentachain.io/zentanetwork)
+[Zentanetwork](https://docs.zentachain.io/zentanetwork)
 
 ## Zentalk
 
