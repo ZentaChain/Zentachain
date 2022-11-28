@@ -76,4 +76,4 @@ A complete set of Zentachain's documentation is available on the Doc-Hub website
 
 For developers who are interested in integration, nodes, APIs, or zentamesh, Developer-hub is the place to be.
 
-[Dev-Hub](https://dev.zentachain.io/)
+[Dev-Hub](https://dev.zentachain.io)
