@@ -60,11 +60,6 @@ Zentachain offers an online store where you can buy a Zentanode miner and suppor
 
 [Onlinestore](https://zentanode.com)
 
-## Trade-Hub
-Zentachain's Trade Hub is a decentralized trading platform. The application is intended to be used by the investor for the purchase of CHAIN tokens.
-
-[Trade-Hub](https://trade.zentachain.io)
-
 ## Staking Dashboard
 
 Staking Dashboard Beta 1.0.0. Try out the new app for the easiest way to stake your CHAIN, check rewards stats, and manage your wallet.
