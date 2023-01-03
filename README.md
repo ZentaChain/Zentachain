@@ -38,15 +38,13 @@ The web version of Zentalk it is currently in the stage of Alpha Testnet.
 
 ## Zentamesh
 
-Within Zentameshnet, data is transported either by a flooding technique or a routing method. Messages take the optimal route, passing from one Zentanode to the next until they reach the destination. In order to keep the availability of all routes active in all situations, the network allows continuous connections using algorithms equipped with self-healing capabilities such as "Shortest Path Bridging".
-
-Zentamesh has a self-healing feature as a defense mechanism against censorship resistance. Self-healing means that if a node's connection ever fails, the mesh network can patch and redirect around the lost node. Data always finds a new path and keeps the network active without interruption. Unlike existing networks, it does not require configuration and fixes many scalability and security issues "zero-config".
+Zentamesh is an ideal solution for users who need efficient and secure communication, even when offline or in areas without internet access. Its decentralized nature, advanced routing capabilities, and self-healing algorithms make it a highly reliable and secure option for any application. The use of Q-learning in the routing of messages through the network helps to optimize communication and make the Zentameshnet even more effective and efficient.
 
 [Zentameshnet](https://docs.zentachain.io/Overview/introduction)
 
 ## Zentanode Updater
 
-Updater is an application designed to inject new releases into the Zentanode device and update the software.
+The Zentanode Updater application makes it easy to inject new releases into the Zentanode device and update the software, ensuring that your device is always running the most recent version.
 
 [Zentanode Updater](https://github.com/ZentaChain/Zentanode-Updater)
 
@@ -58,7 +56,7 @@ Zentachain offers an online store where you can buy a Zentanode miner and suppor
 
 ## Staking Dashboard
 
-Staking Dashboard Beta 1.0.0. Try out the new app for the easiest way to stake your CHAIN, check rewards stats, and manage your wallet.
+Staking Dashboard Beta try out the new app for the easiest way to stake your CHAIN, check rewards stats, and manage your wallet.
 
 [Staking](https://staking.zentachain.io)
  
