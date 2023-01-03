@@ -1,16 +1,12 @@
 # Zentachain
+Zentachain is a privacy-focused IoT blockchain networking project that is focused on communication and data storage. Innovative and useful solutions are provided for issues of security and data ownership. An open-source project that aims to connect decentralized network dynamic routing and AI mesh networking. It is particularly concerned with protecting user privacy and ensuring the confidentiality of sensitive information, data, and communications. To achieve these goals, Zentachain utilizes a hybrid encryption technique in its products, combining multiple encryption methods to enhance security.
 
-Zentachain is a privacy-focused IoT blockchain networking project that is focused on communication and data storage. Innovative and useful solutions are provided for issues of security and data ownership. An open-source project that aims to connect decentralized network dynamic routing and mesh networking.
+One of the key offerings of the Zentachain project is the Zentalk messaging application, which is designed to be a secure and decentralized alternative to traditional messaging platforms. By using blockchain technology, Zentalk is able to protect user privacy and ensure the authenticity of communications. In addition, the application is able to maintain connectivity even in situations where internet access is unavailable, such as during network outages or when internet service is shut down.
 
-The Zentachain initiative rewards users who participate in Zentamesh activities with the native cryptocurrency CHAIN and encourages users to support the network. It provides a way for people and businesses to stay secure without worrying about centralized networking. Privacy, data protection, and decentralized telecommunications are among Zentachain's solutions.
+Another important aspect of the Zentachain project is the Zentamesh network, a mesh network that allows for secure communication and data sharing between IoT devices. The network is powered similar to blockchain technology and relies on nodes, called Zentanodes, to relay data across the network. These nodes can be thought of as gateways or hubs for IoT devices, allowing them to connect and communicate with one another even in challenging conditions, such as when there are connection issues or network disruptions.
 
-Zentachain uses a hybrid encryption technique in its products, using several encryptions to protect sensitive information, data, and communications. The Zentalk decentralized application is not just a messenger application as it exists today like other ones which are most like a centralized network. 
-
-Zentalk offers the ability to interact with people in a variety of situations like connection issues, network issues, or centralized data problem issues. The Zentalk messenger application is a secure messaging platform that uses blockchain technology to protect user privacy and ensure the validity of communications.
-
-As a result, communication may be maintained even if access to the Internet is unavailable like shutdown or offline. Zentalk's security hub is visible not just in its hybrid encryptions and decentralized security, but also in Zentanodes IoT devices that guarantee long-range connections under any circumstances.
-
-The Zentameshnet network is a mesh network that uses can comes with blockchain technology to provide secure communication and data sharing by relaying data across the network. A Zentanode can be thought of as an IoT device gateway or node point in the network.
+In addition to it's network foundation, the Zentamesh network also includes features such as ANN (artificial neural network) technology and Q-learning algorithms, which enable the network to adapt and improve over time through machine learning. This enables the Zentamesh network to become more efficient and effective in its communication and data sharing capabilities, helping to ensure the reliability and stability of the network as it grows.
+Overall, the main focus of the Zentachain project is to provide a decentralized and secure solution for IoT networking and communication, with a strong emphasis on privacy and data protection. It rewards users who participate in its activities with its native cryptocurrency, CHAIN, and encourages them to support the network in order to help it grow and improve.
 
 ## Zentanetwork
 
