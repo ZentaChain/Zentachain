@@ -24,15 +24,9 @@ Zentanode is a device that allows users to communicate offline over a range of s
 
 [Zentanode Onlinestore](https://zentanode.com)
 
-## Zentanode Explorer
-
-The Zentanode Explorer displays the currently running Zentanodes, gateways, staking, rewards, and market information, and users can connect Zentanodes with the explorer to communicate offline in a decentralized network.
-
-[Zentanode-Explorer](https://explorer.zentanode.com/)
-
 ## Zentalk Web
 
-The web version of Zentalk it is currently in the stage of Alpha Testnet.
+Zentalk Web is the web-based counterpart of Zentalk Mobile, offering users a convenient way to connect their Zentanode or Gateway to the Zentamesh network. With a range of connection options available, users can easily communicate and interact with other nodes in the network through chat, including the ability to connect privately to their own nodes or those of their friends. During its Alpha Testnet stage, the development team is working to ensure that Zentalk Web provides a smooth and efficient user experience, making it an indispensable tool for maximizing the potential of the Zentamesh network.
 
 [Zentalk-Web](https://zentalk.chat)
 
