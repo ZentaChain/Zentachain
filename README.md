@@ -22,7 +22,7 @@ Zentalk is an ultra-secure decentralized peer-to-peer messenger application with
 
 Zentanode is a device that allows users to communicate offline over a range of several kilometers. The user simply supports the network and receives CHAIN token rewards in return. The official Zentachain online store is the only place to purchase Zentanode.
 
-[Zentanode Onlinestore](https://zentanode.com)
+[Onlinestore](https://zentanode.com)
 
 ## Zentalk Web
 
