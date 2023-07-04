@@ -10,7 +10,7 @@ Overall, the main focus of the Zentachain project is to provide a decentralized 
 
 ## Zentanetwork
 
-The Zentanetwork is designed to enable offline communication in the Zentameshnet. The ecosystem contains all the necessary technologies to create and host scalable decentralized databases, distributed services and p2p decentralized communications.
+The Zentanetwork is designed to enable offline communication in the Zentameshnet. The ecosystem contains all the necessary technologies to create and host scalable decentralized databases, distributed services and p2p decentralized communications. Additionally, you can explore the Zentachain ```$CHAIN``` token's transaction history and other details on the Ethereum blockchain through the provided [Etherscan link](https://etherscan.io/token/0xc91f1effddc4a727f4de78e400137390779ec062).
 
 [Zentanetwork](https://docs.zentachain.io/zentanetwork)
 
