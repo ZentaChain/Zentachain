@@ -8,11 +8,11 @@ Another important aspect of the Zentachain project is the Zentamesh network, a m
 In addition to it's network foundation, the Zentamesh network also includes features such as ANN (artificial neural network) technology and Q-learning algorithms, which enable the network to adapt and improve over time through machine learning. This enables the Zentamesh network to become more efficient and effective in its communication and data sharing capabilities, helping to ensure the reliability and stability of the network as it grows.
 Overall, the main focus of the Zentachain project is to provide a decentralized and secure solution for IoT networking and communication, with a strong emphasis on privacy and data protection. It rewards users who participate in its activities with its native cryptocurrency, CHAIN, and encourages them to support the network in order to help it grow and improve.
 
-## Zentanetwork
+## Chainnetwork
 
-The Zentanetwork is designed to enable offline communication in the Zentameshnet. The ecosystem contains all the necessary technologies to create and host scalable decentralized databases, distributed services and p2p decentralized communications. Additionally, you can explore the Zentachain ```$CHAIN``` token's transaction history and other details on the Ethereum blockchain through the provided [Etherscan link](https://etherscan.io/token/0xc91f1effddc4a727f4de78e400137390779ec062).
+The Chain network is designed to enable offline communication in the Zentameshnet. The ecosystem contains all the necessary technologies to create and host scalable decentralized databases, distributed services and p2p decentralized communications. Additionally, you can explore the Zentachain ```$CHAIN``` token's transaction history and other details on the Ethereum blockchain through the provided [Etherscan link](https://etherscan.io/token/0xc91f1effddc4a727f4de78e400137390779ec062).
 
-[Zentanetwork](https://docs.zentachain.io/zentanetwork)
+[Chainnetwork](https://docs.zentachain.io/chainnetwork)
 
 ## Zentalk
 
