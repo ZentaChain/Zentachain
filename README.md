@@ -8,11 +8,15 @@ Another important aspect of the Zentachain project is the Zentamesh network, a m
 In addition to it's network foundation, the Zentamesh network also includes features such as ANN (artificial neural network) technology and Q-learning algorithms, which enable the network to adapt and improve over time through machine learning. This enables the Zentamesh network to become more efficient and effective in its communication and data sharing capabilities, helping to ensure the reliability and stability of the network as it grows.
 Overall, the main focus of the Zentachain project is to provide a decentralized and secure solution for IoT networking and communication, with a strong emphasis on privacy and data protection. It rewards users who participate in its activities with its native cryptocurrency, CHAIN, and encourages them to support the network in order to help it grow and improve.
 
-## Chainnetwork
+## Chain Network (L2)
 
 The Chain network is designed to enable offline communication in the Zentameshnet. The ecosystem contains all the necessary technologies to create and host scalable decentralized databases, distributed services and p2p decentralized communications. Additionally, you can explore the Zentachain ```$CHAIN``` token's transaction history and other details on the Ethereum blockchain through the provided [Etherscan link](https://etherscan.io/token/0xc91f1effddc4a727f4de78e400137390779ec062).
 
-[Chainnetwork](https://docs.zentachain.io/chainnetwork)
+## Bridge Chain
+
+The native bridge of the Chain Network is a critical component in enabling the transfer of ETH and tokens initially created on the Layer 2 (L2) network. It plays a vital role in seamlessly connecting and harmonizing decentralized ecosystems, ensuring smooth and efficient interoperability between different blockchain platforms. 
+
+[Bridge to Chain](https://sepolia-bridge.zentachain.io/)
 
 ## Zentalk
 
@@ -64,4 +68,4 @@ A complete set of Zentachain's documentation is available on the Doc-Hub website
 
 For developers who are interested in integration, nodes, APIs, or zentamesh, Developer-hub is the place to be.
 
-[Dev-Hub](https://dev.zentachain.io)
+[Dev-Hub](https://devs-chain.zentachain.io/)
