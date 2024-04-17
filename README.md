@@ -12,7 +12,7 @@ Overall, the main focus of the Zentachain project is to provide a decentralized 
 
 The Chain network is designed to enable offline communication in the Zentameshnet. The ecosystem contains all the necessary technologies to create and host scalable decentralized databases, distributed services and p2p decentralized communications. Additionally, you can explore the Zentachain ```$CHAIN``` token's transaction history and other details on the Ethereum blockchain through the provided [Etherscan link](https://etherscan.io/token/0xc91f1effddc4a727f4de78e400137390779ec062).
 
-## Bridge Chain
+## Bridge Chain (Test-Net)
 
 The native bridge of the Chain Network is a critical component in enabling the transfer of ETH and tokens initially created on the Layer 2 (L2) network. It plays a vital role in seamlessly connecting and harmonizing decentralized ecosystems, ensuring smooth and efficient interoperability between different blockchain platforms. 
 
@@ -20,19 +20,15 @@ The native bridge of the Chain Network is a critical component in enabling the t
 
 ## Zentalk
 
-Zentalk is an ultra-secure decentralized peer-to-peer messenger application without cloud storage. Next to superior usability, users will find state-of-the-art encryption hybrid with AES-256, Diffie-Helman, RSA, and El-Gamal security. By using Zentalk with Zentanodes and the Tor network you can maintain anonymity and conduct offline communications.
+Zentalk is an ultra-secure decentralized peer-to-peer messenger application without cloud storage. Next to superior usability, users will find state-of-the-art encryption hybrid with AES-256, Diffie-Helman, RSA, and El-Gamal security. By using Zentalk with Zentanodes and the Tor network you can maintain anonymity and conduct offline communications. Zentalk Web is the web-based counterpart of Zentalk Mobile, offering users a convenient way to connect their Zentanode or Gateway to the Zentamesh network. With a range of connection options available, users can easily communicate and interact with other nodes in the network through chat, including the ability to connect privately to their own nodes or those of their friends. During its Alpha Testnet stage, the development team is working to ensure that Zentalk Web provides a smooth and efficient user experience, making it an indispensable tool for maximizing the potential of the Zentamesh network.
+
+[Zentalk-Web](https://zentalk.chat)
 
 ## Zentanode
 
 Zentanode is a device that allows users to communicate offline over a range of several kilometers. The user simply supports the network and receives CHAIN token rewards in return. The official Zentachain online store is the only place to purchase Zentanode.
 
 [Onlinestore](https://zentanode.com)
-
-## Zentalk Web
-
-Zentalk Web is the web-based counterpart of Zentalk Mobile, offering users a convenient way to connect their Zentanode or Gateway to the Zentamesh network. With a range of connection options available, users can easily communicate and interact with other nodes in the network through chat, including the ability to connect privately to their own nodes or those of their friends. During its Alpha Testnet stage, the development team is working to ensure that Zentalk Web provides a smooth and efficient user experience, making it an indispensable tool for maximizing the potential of the Zentamesh network.
-
-[Zentalk-Web](https://zentalk.chat)
 
 ## Zentamesh
 
@@ -44,7 +40,7 @@ Zentamesh is an ideal solution for users who need efficient and secure communica
 
 The Zentanode Updater application makes it easy to inject new releases into the Zentanode device and update the software, ensuring that your device is always running the most recent version.
 
-[Zentanode Updater](https://github.com/ZentaChain/Zentanode-Updater)
+[Zentanode Driver](https://zentachain.io/zentanodeupdater)
 
 ## Onlinestore
 
