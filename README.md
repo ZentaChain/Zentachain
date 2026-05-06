@@ -1,81 +1,95 @@
 # Zentachain
-Zentachain is a privacy-focused IoT blockchain networking project that goes beyond communication and data storage. We're building a future where security, data ownership, and real-world asset (RWA) integration are paramount. As an open-source project, we connect decentralized network dynamic routing and AI mesh networking, with a strong emphasis on protecting user privacy and ensuring the confidentiality of sensitive information, data, and communications. Zentachain utilizes a hybrid encryption technique, combining multiple encryption methods to enhance security.
 
-One of the key offerings of the Zentachain project is the Zentalk messaging application, a secure and decentralized alternative to traditional messaging platforms. By using blockchain technology, Zentalk protects user privacy, ensures the authenticity of communications, and maintains connectivity even during internet outages.
-Another important aspect is the Zentamesh network, a decentralized mesh network that allows for secure communication and data sharing between IoT devices.
+Zentachain is a decentralized telecom network. It moves communication off the traditional carrier and server model and onto a peer-to-peer mesh of dedicated hardware nodes operated by independent participants worldwide.
 
-Zentamesh relies on nodes, called Zentanodes, to relay data across the network, ensuring reliable connectivity even in challenging conditions. The network also includes AI-powered features like ANN and Q-learning algorithms to optimize performance and adapt to changing conditions.
+The network is built around five components — **Zentalk**, **Zentamesh**, **Zentanode**, **Zentagate**, and **CHAIN** — that together replace the centralized infrastructure traditional messengers and telecom providers depend on. There are no servers to subpoena, no SIM card to identify the caller, and no single company holding the keys to your conversations.
 
-But Zentachain's vision extends beyond just the digital realm. We are actively involved in the DePin (Decentralized Physical Infrastructure Network) movement, bridging the gap between blockchain technology and real-world assets. Our flagship RWA project is Zenta-Go, a groundbreaking electric car-sharing platform. Zenta-Go leverages blockchain technology to create a decentralized and self-sustaining mobility model, where users can securely access and share electric vehicles.
+The native token, `$CHAIN`, settles routing fees, secures the network through staking, and rewards the operators who run the hardware. CHAIN is an ERC-20 deployed on the Ethereum mainnet.
 
-Overall, Zentachain provides a decentralized and secure solution for IoT networking and communication, with a strong emphasis on privacy and data protection. We reward users who participate in the network with our native cryptocurrency, CHAIN, encouraging them to support and contribute to the growth and improvement of the Zentachain ecosystem. By integrating RWAs like electric vehicles into our DePin network, we are building a future where blockchain technology empowers individuals and communities to create a more sustainable and efficient world.
+[Etherscan](https://etherscan.io/token/0x6B58cfBEdCfe7C59d456c864c92257910A61D8FC)
 
-## Chain Network (L2)
+## CHAIN Network
 
-The Chain network is designed to enable offline communication in the Zentameshnet. The ecosystem contains all the necessary technologies to create and host scalable decentralized databases, distributed services and p2p decentralized communications. Additionally, you can explore the Zentachain ```$CHAIN``` token's transaction history and other details on the Ethereum blockchain through the provided [Etherscan link](https://etherscan.io/token/0xc91f1effddc4a727f4de78e400137390779ec062).
+The CHAIN network settles messaging traffic, node rewards, and on-chain governance for the Zentachain ecosystem. It is the economic layer that turns a peer-to-peer mesh into a self-sustaining, operator-run network — anyone with a Zentanode can join, route traffic, and earn for the bandwidth they contribute.
 
-## Bridge Chain (Test-Net)
-
-The native bridge of the Chain Network is a critical component in enabling the transfer of ETH and tokens initially created on the Layer 2 (L2) network. It plays a vital role in seamlessly connecting and harmonizing decentralized ecosystems, ensuring smooth and efficient interoperability between different blockchain platforms. 
-
-[Bridge to Chain](https://sepolia-bridge.zentachain.io/)
+[chainnetwork](https://zentachain.io/chainnetwork)
 
 ## Zentalk
 
-Zentalk is an ultra-secure decentralized peer-to-peer messenger application without cloud storage. Next to superior usability, users will find state-of-the-art encryption hybrid with AES-256, Diffie-Helman, RSA, and El-Gamal security. By using Zentalk with Zentanodes and the Tor network you can maintain anonymity and conduct offline communications. Zentalk Web is the web-based counterpart of Zentalk Mobile, offering users a convenient way to connect their Zentanode or Gateway to the Zentamesh network. With a range of connection options available, users can easily communicate and interact with other nodes in the network through chat, including the ability to connect privately to their own nodes or those of their friends. During its Alpha Testnet stage, the development team is working to ensure that Zentalk Web provides a smooth and efficient user experience, making it an indispensable tool for maximizing the potential of the Zentamesh network.
+Zentalk is an end-to-end encrypted messenger that runs without a SIM and without a central server. Messages are routed peer-to-peer through the Zentamesh network — when the public internet is unavailable, mesh-connected devices can keep talking directly. Zentalk Web is the browser-based client; native iOS, Android and macOS apps follow.
 
-[Zentalk-Web](https://zentalk.chat)
-
-## Zentanode
-
-Zentanode is a device that allows users to communicate offline over a range of several kilometers. The user simply supports the network and receives CHAIN token rewards in return. The official Zentachain online store is the only place to purchase Zentanode.
-
-[Onlinestore](https://zentanode.com)
+[Zentalk Web](https://zentalk.chat)
 
 ## Zentamesh
 
-Zentamesh is an ideal solution for users who need efficient and secure communication, even when offline or in areas without internet access. Its decentralized nature, advanced routing capabilities, and self-healing algorithms make it a highly reliable and secure option for any application. The use of Q-learning in the routing of messages through the network helps to optimize communication and make the Zentameshnet even more effective and efficient.
+Zentamesh is the decentralized mesh protocol that carries traffic between Zentanodes. It is built to keep working under the conditions conventional networks struggle with — congested, censored, or simply offline. Routing decisions are distributed across the nodes themselves; there is no central coordinator that can be taken down or coerced.
 
-[Zentameshnet](https://docs.zentachain.io/Overview/introduction)
+[Zentamesh](https://docs.zentachain.io/Overview/introduction)
+
+## Zentanode
+
+Zentanode is the dedicated hardware that powers the Zentamesh network. Each device participates in routing, relays encrypted traffic, and earns CHAIN rewards in return. Anyone can run one — no permission gate, no KYC requirement, no exclusive vendor agreement. The official Zentachain store is the only authorized seller.
+
+[Order a Zentanode](https://zentanode.com)
+
+## Zentagate
+
+Zentagate is the gateway between the Zentamesh network and the public internet. It lets traffic originating from outside the network enter through a verified, encrypted entry point — and traffic from inside the mesh reach the outside world without leaking source identity or routing metadata.
+
+## Block Explorer
+
+The Zentachain block explorer is the public window into the network: live traffic, registered nodes, validator status, and CHAIN transaction history. It is the canonical reference for anyone verifying network state.
+
+[explorer.zentalk.chat](https://explorer.zentalk.chat)
+
+## Zentanode Map
+
+A live map of every Zentanode contributing to the network — geographic distribution, online status, and signal coverage at a glance.
+
+[Zentanode Map](https://zentalk.chat/map)
 
 ## Zentanode Updater
 
-The Zentanode Updater application makes it easy to inject new releases into the Zentanode device and update the software, ensuring that your device is always running the most recent version.
+The Zentanode Updater is the official tool for flashing the latest firmware to your Zentanode. It handles signed releases, integrity checks, and rollback safety so the device always boots into a known-good state.
 
-[Zentanode Driver](https://zentachain.io/zentanodeupdater)
+[Zentanode Updater](https://zentachain.io/zentanodeupdater)
 
-## Zenta-Go
+## Online Store
 
-Zenta-Go is revolutionizing urban mobility with a decentralized electric car-sharing platform powered by blockchain technology. Rent and share electric vehicles seamlessly, securely, and sustainably with Zenta-Go. 
+The official Zentachain online store is the only authorized seller of Zentanode hardware. Before ordering, the [purchase guide](https://docs.zentachain.io/zentanode/purchase-guide) walks through what each unit ships with, which model fits your environment, and how to register the device once it arrives.
 
-[zenta-go.com](zenta-go.com)
+[zentanode.com](https://zentanode.com)
 
-## Zenta-Go Dashboard
+## Staking
 
-Manage your electric vehicle revenue, track earnings, and claim rewards with the Zenta-Go Dashboard, your hub for decentralized car-sharing and passive income generation.
+Stake `$CHAIN` to help secure the network and earn a share of routing rewards. The Staking Dashboard is the simplest way to stake, monitor your position, and claim accrued rewards.
 
-[Zenta-Go Dashboard](https://earn.zenta-go.com/) 
+[Stake CHAIN](https://stake.zentachain.io)
 
-## Onlinestore
+## $CHAIN Auction
 
-Zentachain offers an online store where you can buy a Zentanode miner and support the Zentamesh network. Supporters will receive CHAIN tokens in return. Check out the doc-hub before buying a node. This [guide](https://docs.zentachain.io/zentanode/purchase-guide) introducing how you can buy a node and what you need to keep in mind.
+The first public sale of the CHAIN token. Details, schedule, and participation rules are published on the auction page.
 
-[Onlinestore](https://zentanode.com)
+[Auction](https://zentachain.io/auction)
 
-## Staking Dashboard
+## Documentation
 
-Staking Dashboard Beta try out the new app for the easiest way to stake your CHAIN, check rewards stats, and manage your wallet.
+The complete technical reference — protocol spec, hardware setup, API reference, and operator guides — lives in the Documentation Hub.
 
-[Staking](https://staking.zentachain.io)
- 
-## Documentation Hub
+[docs.zentachain.io](https://docs.zentachain.io)
 
-A complete set of Zentachain's documentation is available on the Doc-Hub website.
+## Whitepaper
 
-[Doc-Hub](https://docs.zentachain.io)
+The Zentachain whitepaper covers the architecture, threat model, economic design, and the long-term roadmap of the network.
 
-## Developer Hub
+[Whitepaper](https://zentachain.io/whitepaper)
 
-For developers who are interested in integration, nodes, APIs, or zentamesh, Developer-hub is the place to be.
+## Blog
 
-[Dev-Hub](https://devs-chain.zentachain.io/)
+Engineering posts, network updates, and announcements from the team.
+
+[zentachain.blog](https://zentachain.blog)
+
+---
+
+Built by [Zentachain GmbH](https://zentachain.io/imprint) — Dortmund, Germany.
